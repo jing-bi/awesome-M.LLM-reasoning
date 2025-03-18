@@ -1,3 +1,20 @@
+# Awesome MLLM Reasoning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+### 🔥🔥🔥 [MultiModal Language Models Reasoning: A Survey]
+
+
+
+
+## 📰 Table of Contents
+- [Background](#-background)
+- [Paper List](#-paper-list)
+
+
+## 🎉 Background
+With the rapid advancement of Multimodal Large Language Models (MLLMs), their reasoning capabilities have become a focal point of research. Understanding how these models process and integrate information across different modalities is essential for improving interpretability and reliability. These developments have led to an increasing body of work analyzing the fundamental reasoning capabilities and Aha Moment within LMLMs, which we refer to as Multimodal Reasoning Paradigms.
+
+
+## 📚 Paper List
 | Paper | Title |
 | --- | --- |
 | [https://www.arxiv.org/abs/2502.02339](https://www.arxiv.org/abs/2502.02339) | Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking |
@@ -267,3 +284,4 @@
 | [https://www.arxiv.org/abs/2203.14465](https://www.arxiv.org/abs/2203.14465) | STaR: Bootstrapping Reasoning With Reasoning |
 | [https://www.arxiv.org/abs/2203.11171](https://www.arxiv.org/abs/2203.11171) | Self-Consistency Improves Chain of Thought Reasoning in Language Models |
 | [https://www.arxiv.org/abs/2104.05218](https://www.arxiv.org/abs/2104.05218) | FUDGE: Controlled Text Generation With Future Discriminators |
+
