@@ -1,6 +1,6 @@
 # Awesome MLLM Reasoning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-### 🔥🔥🔥 [MultiModal Language Models Reasoning: A Survey]
+### 🔥🔥🔥 Multimodal Language Models Reasoning: A Survey
 
 
 
@@ -11,8 +11,24 @@
 
 
 ## 🎉 Background
-With the rapid advancement of Multimodal Large Language Models (MLLMs), their reasoning capabilities have become a focal point of research. Understanding how these models process and integrate information across different modalities is essential for improving interpretability and reliability. These developments have led to an increasing body of work analyzing the fundamental reasoning capabilities and Aha Moment within LMLMs, which we refer to as Multimodal Reasoning Paradigms.
+With the rapid advancement of Multimodal Large Language Models (MLLMs), their reasoning capabilities have become a focal point of research. Understanding how these models process and integrate information across different modalities is essential for improving interpretability and reliability. These developments have led to an increasing body of work analyzing the fundamental reasoning capabilities and Aha Moments within LMLMs, which we refer to as Multimodal Reasoning Paradigms.
 
+
+## Citation
+If you find our survey useful, please cite the following paper:
+```bibtex
+@article{jing2025multimodal,
+     title={MultiModal Language Models Reasoning: A Survey},
+     author={},
+     journal={},
+     url={},
+     year={2025}
+}
+```
+
+## 🌟 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=jing-bi/awesome-M.LLM-reasoning&type=Date)](https://star-history.com/#jing-bi/awesome-M.LLM-reasoning&Date)
 
 ## 📚 Paper List
 
