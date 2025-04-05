@@ -86,14 +86,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Can Multimodal LLMs do Visual Temporal Understanding and Reasoning? The
   answer is No!</strong><br><em>Mohamed Fazli Imam, Chenyang Lyu, Alham Fikri Aji</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/temporal-blue" alt="temporal Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2501.10674"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2025-01-13</td>
 <td style="width: 40%;"><strong>TimeLogic: A Temporal Logic Benchmark for Video QA</strong><br><em>Sirnam Swetha, Hilde Kuehne, Mubarak Shah</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/evaluation-blue" alt="evaluation Badge"> <img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/logic-blue" alt="logic Badge"> <img src="https://img.shields.io/badge/temporal-blue" alt="temporal Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2501.07214"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -101,14 +101,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Can MLLMs Reason in Multimodality? EMMA: An Enhanced MultiModal
   ReAsoning Benchmark</strong><br><em>Yunzhuo Hao, Jiawei Gu, Huichen Will Wang, Linjie Li, Zhengyuan Yang, Lijuan Wang, Yu Cheng</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/test time-blue" alt="test time Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/cot-blue" alt="cot Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2501.05444"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2025-01-07</td>
 <td style="width: 40%;"><strong>SMIR: Efficient Synthetic Data Pipeline To Improve Multi-Image Reasoning</strong><br><em>Andrew Li, Rahul Thapa, Rahul Chalamala, Qingyang Wu, Kezhen Chen, James Zou</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/synthetic data-blue" alt="synthetic data Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2501.03675"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -116,7 +116,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Generalizing from SIMPLE to HARD Visual Reasoning: Can We Mitigate
   Modality Imbalance in VLMs?</strong><br><em>Simon Park, Abhishek Panigrahi, Yun Cheng, Dingli Yu, Anirudh Goyal, Sanjeev Arora</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/auto regressive-blue" alt="auto regressive Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/alignment-blue" alt="alignment Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2501.02669"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -124,7 +124,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via
   Collective Monte Carlo Tree Search</strong><br><em>Huanjin Yao, Jiaxing Huang, Wenhao Wu, Jingyi Zhang, Yibo Wang, Shunyu Liu, Yingjie Wang, Yuxin Song, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/reflect-blue" alt="reflect Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/search-blue" alt="search Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.18319"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -140,7 +140,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Benchmarking and Improving Large Vision-Language Models for Fundamental
   Visual Graph Understanding and Reasoning</strong><br><em>Yingjie Zhu, Xuefeng Bai, Kehai Chen, Yang Xiang, Jun Yu, Min Zhang</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/lvlm-blue" alt="lvlm Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.13540"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -155,7 +155,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>CoMT: A Novel Benchmark for Chain of Multi-modal Thought on Large
   Vision-Language Models</strong><br><em>Zihui Cheng, Qiguang Chen, Jin Zhang, Hao Fei, Xiaocheng Feng, Wanxiang Che, Min Li, Libo Qin</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/lvlm-blue" alt="lvlm Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/cot-blue" alt="cot Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.12932"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -163,7 +163,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>ProVision: Programmatically Scaling Vision-centric Instruction Data for
   Multimodal Language Models</strong><br><em>Jieyu Zhang, Le Xue, Linxin Song, Jun Wang, Weikai Huang, Manli Shu, An Yan, Zixian Ma, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/data generation-blue" alt="data generation Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/program-blue" alt="program Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.07012"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -171,14 +171,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>CompCap: Improving Multimodal Large Language Models with Composite
   Captions</strong><br><em>Xiaohui Chen, Satya Narayan Shukla, Mahmoud Azab, Aashu Singh, Qifan Wang, David Yang, ShengYun Peng, Hanchao Yu, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/supervised fine tuning-blue" alt="supervised fine tuning Badge"> <img src="https://img.shields.io/badge/alignment-blue" alt="alignment Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.05243"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-12-05</td>
 <td style="width: 40%;"><strong>MageBench: Bridging Large Multimodal Models to Agents</strong><br><em>Miaosen Zhang, Qi Dai, Yifan Yang, Jianmin Bao, Dongdong Chen, Kai Qiu, Chong Luo, Xin Geng, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/feedback-blue" alt="feedback Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.04531"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -186,14 +186,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>VISCO: Benchmarking Fine-Grained Critique and Correction Towards
   Self-Improvement in Visual Reasoning</strong><br><em>Xueqing Wu, Yuheng Ding, Bingxuan Li, Pan Lu, Da Yin, Kai-Wei Chang, Nanyun Peng</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/lvlm-blue" alt="lvlm Badge"> <img src="https://img.shields.io/badge/fine grained-blue" alt="fine grained Badge"> <img src="https://img.shields.io/badge/self improv-blue" alt="self improv Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/cot-blue" alt="cot Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.02172"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-12-03</td>
 <td style="width: 40%;"><strong>Progress-Aware Video Frame Captioning</strong><br><em>Zihui Xue, Joungbin An, Xitong Yang, Kristen Grauman</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/dataset-blue" alt="dataset Badge"> <img src="https://img.shields.io/badge/fine grained-blue" alt="fine grained Badge"> <img src="https://img.shields.io/badge/temporal-blue" alt="temporal Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/video-blue" alt="video Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.02071"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -201,7 +201,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>VLRewardBench: A Challenging Benchmark for Vision-Language Generative
   Reward Models</strong><br><em>Lei Li, Yuancheng Wei, Zhihui Xie, Xuqing Yang, Yifan Song, Peiyi Wang, Chenxin An, Tianyu Liu, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> <img src="https://img.shields.io/badge/alignment-blue" alt="alignment Badge"> <img src="https://img.shields.io/badge/inference time-blue" alt="inference time Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/reward model-blue" alt="reward model Badge"> <img src="https://img.shields.io/badge/verification-blue" alt="verification Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2411.17451"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -209,14 +209,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Enhancing the Reasoning Ability of Multimodal Large Language Models via
   Mixed Preference Optimization</strong><br><em>Weiyun Wang, Zhe Chen, Wenhai Wang, Yue Cao, Yangzhou Liu, Zhangwei Gao, Jinguo Zhu, Xizhou Zhu, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/preference-blue" alt="preference Badge"> <img src="https://img.shields.io/badge/distribution shift-blue" alt="distribution shift Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/cot-blue" alt="cot Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2411.10442"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-11-15</td>
 <td style="width: 40%;"><strong>LLaVA-CoT: Let Vision Language Models Reason Step-by-Step</strong><br><em>Guowei Xu, Peng Jin, Hao Li, Yibing Song, Lichao Sun, Li Yuan</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/inference time-blue" alt="inference time Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2411.10440"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -224,7 +224,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>VLFeedback: A Large-Scale AI Feedback Dataset for Large Vision-Language
   Models Alignment</strong><br><em>Lei Li, Zhihui Xie, Mukai Li, Shunian Chen, Peiyi Wang, Liang Chen, Yazheng Yang, Benyou Wang, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/lvlm-blue" alt="lvlm Badge"> <img src="https://img.shields.io/badge/feedback-blue" alt="feedback Badge"> <img src="https://img.shields.io/badge/dataset-blue" alt="dataset Badge"> <img src="https://img.shields.io/badge/alignment-blue" alt="alignment Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2410.09421"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -232,7 +232,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>ActiView: Evaluating Active Perception Ability for Multimodal Large
   Language Models</strong><br><em>Ziyue Wang, Chi Chen, Fuwen Luo, Yurui Dong, Yuanchi Zhang, Yuzhuang Xu, Xiaolong Wang, Peng Li, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2410.04659"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -240,7 +240,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>FineCops-Ref: A new Dataset and Task for Fine-Grained Compositional
   Referring Expression Comprehension</strong><br><em>Junzhuo Liu, Xuzheng Yang, Weiwei Li, Peng Wang</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/evaluation-blue" alt="evaluation Badge"> <img src="https://img.shields.io/badge/referring expression-blue" alt="referring expression Badge"> <img src="https://img.shields.io/badge/dataset-blue" alt="dataset Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2409.14750"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -248,14 +248,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>JourneyBench: A Challenging One-Stop Vision-Language Understanding
   Benchmark of Generated Images</strong><br><em>Zhecan Wang, Junzhang Liu, Chia-Wei Tang, Hani Alomari, Anushka Sivakumar, Rui Sun, Wenhao Li, Md. Atabuzzaman, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/vision language-blue" alt="vision language Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2409.12953"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-09-12</td>
 <td style="width: 40%;"><strong>What Makes a Maze Look Like a Maze?</strong><br><em>Joy Hsu, Jiayuan Mao, Joshua B. Tenenbaum, Noah D. Goodman, Jiajun Wu</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/grounding-blue" alt="grounding Badge"> <img src="https://img.shields.io/badge/evaluation-blue" alt="evaluation Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2409.08202"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -263,21 +263,21 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Divide, Conquer and Combine: A Training-Free Framework for
   High-Resolution Image Perception in Multimodal Large Language Models</strong><br><em>Wenbin Wang, Liang Ding, Minyan Zeng, Xiabin Zhou, Li Shen, Yong Luo, Dacheng Tao</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/high resolution-blue" alt="high resolution Badge"> <img src="https://img.shields.io/badge/training free-blue" alt="training free Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2408.15556"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-08-26</td>
 <td style="width: 40%;"><strong>Grounded Multi-Hop VideoQA in Long-Form Egocentric Videos</strong><br><em>Qirui Chen, Shangzhe Di, Weidi Xie</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/dataset-blue" alt="dataset Badge"> <img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/grounding-blue" alt="grounding Badge"> <img src="https://img.shields.io/badge/temporal-blue" alt="temporal Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/video-blue" alt="video Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2408.14469"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-08-16</td>
 <td style="width: 40%;"><strong>A Survey on Benchmarks of Multimodal Large Language Models</strong><br><em>Jian Li, Weiheng Lu, Hao Fei, Meng Luo, Ming Dai, Min Xia, Yizhang Jin, Zhenye Gan, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2408.08632"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -285,7 +285,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>MM-Vet v2: A Challenging Benchmark to Evaluate Large Multimodal Models
   for Integrated Capabilities</strong><br><em>Weihao Yu, Zhengyuan Yang, Lingfeng Ren, Linjie Li, Jianfeng Wang, Kevin Lin, Chung-Ching Lin, Zicheng Liu, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/vision language-blue" alt="vision language Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2408.00765"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -293,7 +293,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>FIRE: A Dataset for Feedback Integration and Refinement Evaluation of
   Multimodal Models</strong><br><em>Pengxiang Li, Zhi Gao, Bofei Zhang, Tao Yuan, Yuwei Wu, Mehrtash Harandi, Yunde Jia, Song-Chun Zhu, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/feedback-blue" alt="feedback Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/scaling-blue" alt="scaling Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2407.11522"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -301,7 +301,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Reflective Instruction Tuning: Mitigating Hallucinations in Large
   Vision-Language Models</strong><br><em>Jinrui Zhang, Teng Wang, Haigang Zhang, Ping Lu, Feng Zheng</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/dataset-blue" alt="dataset Badge"> <img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> <img src="https://img.shields.io/badge/reflect-blue" alt="reflect Badge"> <img src="https://img.shields.io/badge/lvlm-blue" alt="lvlm Badge"> <img src="https://img.shields.io/badge/fine grained-blue" alt="fine grained Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2407.11422"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -309,7 +309,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>LogicVista: Multimodal LLM Logical Reasoning Benchmark in Visual
   Contexts</strong><br><em>Yijia Xiao, Edward Sun, Tianyu Liu, Wei Wang</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/logic-blue" alt="logic Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2407.04973"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -317,28 +317,28 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>From the Least to the Most: Building a Plug-and-Play Visual Reasoner via
   Data Synthesis</strong><br><em>Chuanqi Cheng, Jian Guan, Wei Wu, Rui Yan</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/supervised fine tuning-blue" alt="supervised fine tuning Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/search-blue" alt="search Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2406.19934"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-06-27</td>
 <td style="width: 40%;"><strong>ReXTime: A Benchmark Suite for Reasoning-Across-Time in Videos</strong><br><em>Jr-Jen Chen, Yu-Chien Liao, Hsi-Che Lin, Yu-Chu Yu, Yen-Chun Chen, Yu-Chiang Frank Wang</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/temporal-blue" alt="temporal Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2406.19392"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-06-26</td>
 <td style="width: 40%;"><strong>GUIDE: A Guideline-Guided Dataset for Instructional Video Comprehension</strong><br><em>Jiafeng Liang, Shixin Jiang, Zekun Wang, Haojie Pan, Zerui Chen, Zheng Chu, Ming Liu, Ruiji Fu, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/dataset-blue" alt="dataset Badge"> <img src="https://img.shields.io/badge/captioning-blue" alt="captioning Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2406.18227"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-06-17</td>
 <td style="width: 40%;"><strong>VideoVista: A Versatile Benchmark for Video Understanding and Reasoning</strong><br><em>Yunxin Li, Xinyu Chen, Baotian Hu, Longyue Wang, Haoyuan Shi, Min Zhang</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/temporal-blue" alt="temporal Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/logic-blue" alt="logic Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/video-blue" alt="video Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2406.11303"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -346,28 +346,28 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Investigating Video Reasoning Capability of Large Language Models with
   Tropes in Movies</strong><br><em>Hung-Ting Su, Chun-Tong Chao, Ya-Ching Hsu, Xudong Lin, Yulei Niu, Hung-Yi Lee, Winston H. Hsu</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/dataset-blue" alt="dataset Badge"> <img src="https://img.shields.io/badge/video-blue" alt="video Badge"> <img src="https://img.shields.io/badge/program-blue" alt="program Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2406.10923"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-06-13</td>
 <td style="width: 40%;"><strong>LLAVIDAL: A Large LAnguage VIsion Model for Daily Activities of Living</strong><br><em>Dominick Reilly, Rajatsubhra Chakraborty, Arkaprava Sinha, Manish Kumar Govind, Pu Wang, Francois Bremond, Le Xue, Srijan Das</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2406.09390"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-06-13</td>
 <td style="width: 40%;"><strong>ReMI: A Dataset for Reasoning with Multiple Images</strong><br><em>Mehran Kazemi, Nishanth Dikkala, Ankit Anand, Petar Devic, Ishita Dasgupta, Fangyu Liu, Bahare Fatemi, Pranjal Awasthi, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/evaluation-blue" alt="evaluation Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2406.09175"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-06-12</td>
 <td style="width: 40%;"><strong>ConMe: Rethinking Evaluation of Compositional Reasoning for Modern VLMs</strong><br><em>Irene Huang, Wei Lin, M. Jehanzeb Mirza, Jacob A. Hansen, Sivan Doveh, Victor Ion Butoi, Roei Herzig, Assaf Arbelle, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/data generation-blue" alt="data generation Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2406.08164"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -375,14 +375,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>M$^3$CoT: A Novel Benchmark for Multi-Domain Multi-step Multi-modal
   Chain-of-Thought</strong><br><em>Qiguang Chen, Libo Qin, Jin Zhang, Zhi Chen, Xiao Xu, Wanxiang Che</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/cot-blue" alt="cot Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2405.16473"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-05-15</td>
 <td style="width: 40%;"><strong>STAR: A Benchmark for Situated Reasoning in Real-World Videos</strong><br><em>Bo Wu, Shoubin Yu, Zhenfang Chen, Joshua B Tenenbaum, Chuang Gan</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/symbolic-blue" alt="symbolic Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/video-blue" alt="video Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2405.09711"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -390,21 +390,21 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>WorldQA: Multimodal World Knowledge in Videos through Long-Chain
   Reasoning</strong><br><em>Yuanhan Zhang, Kaichen Zhang, Bo Li, Fanyi Pu, Christopher Arif Setiadharma, Jingkang Yang, Ziwei Liu</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/dataset-blue" alt="dataset Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/video-blue" alt="video Badge"> <img src="https://img.shields.io/badge/rl-blue" alt="rl Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2405.03272"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-04-28</td>
 <td style="width: 40%;"><strong>Exposing Text-Image Inconsistency Using Diffusion Models</strong><br><em>Mingzhen Huang, Shan Jia, Zhou Zhou, Yan Ju, Jialing Cai, Siwei Lyu</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/evaluation-blue" alt="evaluation Badge"> <img src="https://img.shields.io/badge/dataset-blue" alt="dataset Badge"> <img src="https://img.shields.io/badge/diffusion-blue" alt="diffusion Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2404.18033"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-04-18</td>
 <td style="width: 40%;"><strong>BLINK: Multimodal Large Language Models Can See but Not Perceive</strong><br><em>Xingyu Fu, Yushi Hu, Bangzheng Li, Yu Feng, Haoyu Wang, Xudong Lin, Dan Roth, Noah A. Smith, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2404.12390"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -412,14 +412,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>CausalChaos! Dataset for Comprehensive Causal Action Question Answering
   Over Longer Causal Chains Grounded in Dynamic Visual Scenes</strong><br><em>Paritosh Parmar, Eric Peh, Ruirui Chen, Ting En Lam, Yuhan Chen, Elston Tan, Basura Fernando</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/dataset-blue" alt="dataset Badge"> <img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/evaluation-blue" alt="evaluation Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2404.01299"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-03-28</td>
 <td style="width: 40%;"><strong>Plug-and-Play Grounding of Reasoning in Multimodal Large Language Models</strong><br><em>Jiaxing Chen, Yuxuan Liu, Dehu Li, Xiang An, Weimo Deng, Ziyong Feng, Yongle Zhao, Yin Xie</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/plug and play-blue" alt="plug and play Badge"> <img src="https://img.shields.io/badge/high resolution-blue" alt="high resolution Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/agent-blue" alt="agent Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2403.19322"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -427,21 +427,21 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive
   Dataset and Benchmark for Chain-of-Thought Reasoning</strong><br><em>Hao Shao, Shengju Qian, Han Xiao, Guanglu Song, Zhuofan Zong, Letian Wang, Yu Liu, Hongsheng Li</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/cot-blue" alt="cot Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2403.16999"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-03-17</td>
 <td style="width: 40%;"><strong>m&m's: A Benchmark to Evaluate Tool-Use for multi-step multi-modal Tasks</strong><br><em>Zixian Ma, Weikai Huang, Jieyu Zhang, Tanmay Gupta, Ranjay Krishna</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/tool-blue" alt="tool Badge"> <img src="https://img.shields.io/badge/feedback-blue" alt="feedback Badge"> <img src="https://img.shields.io/badge/planning-blue" alt="planning Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2403.11085"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-02-29</td>
 <td style="width: 40%;"><strong>Navigating Hallucinations for Reasoning of Unintentional Activities</strong><br><em>Shresth Grover, Vibhav Vineet, Yogesh S Rawat</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/zero shot-blue" alt="zero shot Badge"> <img src="https://img.shields.io/badge/metric-blue" alt="metric Badge"> <img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2402.19405"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -449,14 +449,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>DualFocus: Integrating Macro and Micro Perspectives in Multi-modal Large
   Language Models</strong><br><em>Yuhang Cao, Pan Zhang, Xiaoyi Dong, Dahua Lin, Jiaqi Wang</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/vision language-blue" alt="vision language Badge"> <img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2402.14767"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-02-22</td>
 <td style="width: 40%;"><strong>Visual Hallucinations of Multi-modal Large Language Models</strong><br><em>Wen Huang, Hongbin Liu, Minxin Guo, Neil Zhenqiang Gong</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2402.14683"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -464,7 +464,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>PCA-Bench: Evaluating Multimodal Large Language Models in
   Perception-Cognition-Action Chain</strong><br><em>Liang Chen, Yichi Zhang, Shuhuai Ren, Haozhe Zhao, Zefan Cai, Yuchi Wang, Peiyi Wang, Xiangdi Meng, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/evaluation-blue" alt="evaluation Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/instruction tun-blue" alt="instruction tun Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2402.15527"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -472,7 +472,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>CounterCurate: Enhancing Physical and Semantic Visio-Linguistic
   Compositional Reasoning via Counterfactual Examples</strong><br><em>Jianrui Zhang, Mu Cai, Tengyang Xie, Yong Jae Lee</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2402.13254"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -480,7 +480,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>ViGoR: Improving Visual Grounding of Large Vision Language Models with
   Fine-Grained Reward Modeling</strong><br><em>Siming Yan, Min Bai, Weifeng Chen, Xiong Zhou, Qixing Huang, Li Erran Li</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/lvlm-blue" alt="lvlm Badge"> <img src="https://img.shields.io/badge/grounding-blue" alt="grounding Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/reward model-blue" alt="reward model Badge"> <img src="https://img.shields.io/badge/evaluation-blue" alt="evaluation Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2402.06118"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -488,7 +488,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with
   Vision-Language Benchmark</strong><br><em>Dongping Chen, Ruoxi Chen, Shilin Zhang, Yinuo Liu, Yaochen Wang, Huichi Zhou, Qihui Zhang, Yao Wan, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/evaluation-blue" alt="evaluation Badge"> <img src="https://img.shields.io/badge/preference-blue" alt="preference Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2402.04788"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -496,14 +496,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>ConTextual: Evaluating Context-Sensitive Text-Rich Visual Reasoning in
   Large Multimodal Models</strong><br><em>Rohan Wadhawan, Hritik Bansal, Kai-Wei Chang, Nanyun Peng</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2401.13311"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-01-16</td>
 <td style="width: 40%;"><strong>Scalable Pre-training of Large Autoregressive Image Models</strong><br><em>Alaaeldin El-Nouby, Michal Klein, Shuangfei Zhai, Miguel Angel Bautista, Alexander Toshev, Vaishaal Shankar, Joshua M Susskind, Armand Joulin</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/auto regressive-blue" alt="auto regressive Badge"> <img src="https://img.shields.io/badge/scaling-blue" alt="scaling Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2401.08541"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -511,35 +511,35 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>MM-SAP: A Comprehensive Benchmark for Assessing Self-Awareness of
   Multimodal Large Language Models in Perception</strong><br><em>Yuhao Wang, Yusheng Liao, Heyang Liu, Hongcheng Liu, Yu Wang, Yanfeng Wang</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2401.07529"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2023-12-21</td>
 <td style="width: 40%;"><strong>V*: Guided Visual Search as a Core Mechanism in Multimodal LLMs</strong><br><em>Penghao Wu, Saining Xie</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/high resolution-blue" alt="high resolution Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/search-blue" alt="search Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2312.14135"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2023-12-12</td>
 <td style="width: 40%;"><strong>Interfacing Foundation Models' Embeddings</strong><br><em>Xueyan Zou, Linjie Li, Jianfeng Wang, Jianwei Yang, Mingyu Ding, Junyi Wei, Zhengyuan Yang, Feng Li, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/dataset-blue" alt="dataset Badge"> <img src="https://img.shields.io/badge/segmentation-blue" alt="segmentation Badge"> <img src="https://img.shields.io/badge/alignment-blue" alt="alignment Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/evaluation-blue" alt="evaluation Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2312.07532"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2023-12-06</td>
 <td style="width: 40%;"><strong>Mitigating Open-Vocabulary Caption Hallucinations</strong><br><em>Assaf Ben-Kish, Moran Yanuka, Morris Alper, Raja Giryes, Hadar Averbuch-Elor</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/captioning-blue" alt="captioning Badge"> <img src="https://img.shields.io/badge/rl-blue" alt="rl Badge"> <img src="https://img.shields.io/badge/optimization-blue" alt="optimization Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2312.03631"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2023-12-05</td>
 <td style="width: 40%;"><strong>LLaVA-Grounding: Grounded Visual Chat with Large Multimodal Models</strong><br><em>Hao Zhang, Hongyang Li, Feng Li, Tianhe Ren, Xueyan Zou, Shilong Liu, Shijia Huang, Jianfeng Gao, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2312.02949"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -547,7 +547,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>What's "up" with vision-language models? Investigating their struggle
   with spatial reasoning</strong><br><em>Amita Kamath, Jack Hessel, Kai-Wei Chang</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/evaluation-blue" alt="evaluation Badge"> <img src="https://img.shields.io/badge/spatial-blue" alt="spatial Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2310.19785"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -555,21 +555,21 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>What If the TV Was Off? Examining Counterfactual Reasoning Abilities of
   Multi-modal Language Models</strong><br><em>Letian Zhang, Xiaotong Zhai, Zhongkai Zhao, Yongshuo Zong, Xin Wen, Bingchen Zhao</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/evaluation-blue" alt="evaluation Badge"> <img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2310.06627"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2023-09-25</td>
 <td style="width: 40%;"><strong>Aligning Large Multimodal Models with Factually Augmented RLHF</strong><br><em>Zhiqing Sun, Sheng Shen, Shengcao Cao, Haotian Liu, Chunyuan Li, Yikang Shen, Chuang Gan, Liang-Yan Gui, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> <img src="https://img.shields.io/badge/alignment-blue" alt="alignment Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/rl-blue" alt="rl Badge"> <img src="https://img.shields.io/badge/feedback-blue" alt="feedback Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2309.14525"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2023-08-21</td>
 <td style="width: 40%;"><strong>VQA Therapy: Exploring Answer Differences by Visually Grounding Answers</strong><br><em>Chongyan Chen, Samreen Anjum, Danna Gurari</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/grounding-blue" alt="grounding Badge"> <img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/dataset-blue" alt="dataset Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2308.11662"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -654,7 +654,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>GTR: Guided Thought Reinforcement Prevents Thought Collapse in RL-based
   VLM Agent Training</strong><br><em>Tong Wei, Yijun Yang, Junliang Xing, Yuanchun Shi, Zongqing Lu, Deheng Ye</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/embodied-blue" alt="embodied Badge"> <img src="https://img.shields.io/badge/cot-blue" alt="cot Badge"> <img src="https://img.shields.io/badge/rl-blue" alt="rl Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2503.08525"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -678,7 +678,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through
   Two-Stage Rule-Based RL</strong><br><em>Yingzhe Peng, Gongrui Zhang, Miaosen Zhang, Zhiyuan You, Jie Liu, Qipeng Zhu, Kai Yang, Xingzhong Xu, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/efficiency-blue" alt="efficiency Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/rl-blue" alt="rl Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2503.07536"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -686,7 +686,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale
   Reinforcement Learning</strong><br><em>Fanqing Meng, Lingxiao Du, Zongkai Liu, Zhixiang Zhou, Quanfeng Lu, Daocheng Fu, Botian Shi, Wenhai Wang, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/efficiency-blue" alt="efficiency Badge"> <img src="https://img.shields.io/badge/instruction tun-blue" alt="instruction tun Badge"> <img src="https://img.shields.io/badge/supervised fine tuning-blue" alt="supervised fine tuning Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/rl-blue" alt="rl Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2503.07365"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -694,7 +694,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Can Atomic Step Decomposition Enhance the Self-structured Reasoning of
   Multimodal Large Models?</strong><br><em>Kun Xiang, Zhili Liu, Zihao Jiang, Yunshuang Nie, Kaixin Cai, Yiyang Yin, Runhui Huang, Haoxiang Fan, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/metric-blue" alt="metric Badge"> <img src="https://img.shields.io/badge/math-blue" alt="math Badge"> <img src="https://img.shields.io/badge/supervised fine tuning-blue" alt="supervised fine tuning Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/cot-blue" alt="cot Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2503.06252"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -702,7 +702,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>R1-Omni: Explainable Omni-Multimodal Emotion Recognition with
   Reinforcement Learning</strong><br><em>Jiaxing Zhao, Xihan Wei, Liefeng Bo</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/rl-blue" alt="rl Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2503.05379"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -717,7 +717,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 10%;">2025-03-03</td>
 <td style="width: 40%;"><strong>Visual-RFT: Visual Reinforcement Fine-Tuning</strong><br><em>Ziyu Liu, Zeyi Sun, Yuhang Zang, Xiaoyi Dong, Yuhang Cao, Haodong Duan, Dahua Lin, Jiaqi Wang</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/lvlm-blue" alt="lvlm Badge"> <img src="https://img.shields.io/badge/optimization-blue" alt="optimization Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/rl-blue" alt="rl Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2503.01785"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -739,21 +739,21 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 10%;">2025-02-04</td>
 <td style="width: 40%;"><strong>Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking</strong><br><em>Jinyang Wu, Mingkuan Feng, Shuai Zhang, Ruihan Jin, Feihu Che, Zengqi Wen, Jianhua Tao</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/o1-blue" alt="o1 Badge"> <img src="https://img.shields.io/badge/optimization-blue" alt="optimization Badge"> <img src="https://img.shields.io/badge/search-blue" alt="search Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2502.02339"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2025-02-02</td>
 <td style="width: 40%;"><strong>VIKSER: Visual Knowledge-Driven Self-Reinforcing Reasoning Framework</strong><br><em>Chunbai Zhang, Chao Wang, Yang Zhou, Yan Peng</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/fine grained-blue" alt="fine grained Badge"> <img src="https://img.shields.io/badge/distillation-blue" alt="distillation Badge"> <img src="https://img.shields.io/badge/reflect-blue" alt="reflect Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2502.00711"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2025-02-01</td>
 <td style="width: 40%;"><strong>Masked Generative Nested Transformers with Decode Time Scaling</strong><br><em>Sahil Goyal, Debapriya Tula, Gagan Jain, Pradeep Shenoy, Prateek Jain, Sujoy Paul</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/video-blue" alt="video Badge"> <img src="https://img.shields.io/badge/scaling-blue" alt="scaling Badge"> <img src="https://img.shields.io/badge/efficiency-blue" alt="efficiency Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2502.00382"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -768,7 +768,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>RLS3: RL-Based Synthetic Sample Selection to Enhance Spatial Reasoning
   in Vision-Language Models for Indoor Autonomous Perception</strong><br><em>Joshua R. Waite, Md. Zahid Hasan, Qisai Liu, Zhanhong Jiang, Chinmay Hegde, Soumik Sarkar</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/synthetic data-blue" alt="synthetic data Badge"> <img src="https://img.shields.io/badge/spatial-blue" alt="spatial Badge"> <img src="https://img.shields.io/badge/rl-blue" alt="rl Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2501.18880"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -783,14 +783,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Can We Generate Images with CoT? Let's Verify and Reinforce Image
   Generation Step by Step</strong><br><em>Ziyu Guo, Renrui Zhang, Chengzhuo Tong, Zhizheng Zhao, Peng Gao, Hongsheng Li, Pheng-Ann Heng</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/auto regressive-blue" alt="auto regressive Badge"> <img src="https://img.shields.io/badge/reward model-blue" alt="reward model Badge"> <img src="https://img.shields.io/badge/dpo-blue" alt="dpo Badge"> <img src="https://img.shields.io/badge/cot-blue" alt="cot Badge"> <img src="https://img.shields.io/badge/verification-blue" alt="verification Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2501.13926"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2025-01-23</td>
 <td style="width: 40%;"><strong>ReasVQA: Advancing VideoQA with Imperfect Reasoning Process</strong><br><em>Jianxin Liang, Xiaojun Meng, Huishuai Zhang, Yueqian Wang, Jiansheng Wei, Dongyan Zhao</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/evaluation-blue" alt="evaluation Badge"> <img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2501.13536"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -798,7 +798,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>InternLM-XComposer2.5-Reward: A Simple Yet Effective Multi-Modal Reward
   Model</strong><br><em>Yuhang Zang, Xiaoyi Dong, Pan Zhang, Yuhang Cao, Ziyu Liu, Shengyuan Ding, Shenxi Wu, Yubo Ma, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/preference-blue" alt="preference Badge"> <img src="https://img.shields.io/badge/alignment-blue" alt="alignment Badge"> <img src="https://img.shields.io/badge/lvlm-blue" alt="lvlm Badge"> <img src="https://img.shields.io/badge/test time-blue" alt="test time Badge"> <img src="https://img.shields.io/badge/reward model-blue" alt="reward model Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/rl-blue" alt="rl Badge"> <img src="https://img.shields.io/badge/optimization-blue" alt="optimization Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2501.12368"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -843,7 +843,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 10%;">2025-01-13</td>
 <td style="width: 40%;"><strong>Imagine while Reasoning in Space: Multimodal Visualization-of-Thought</strong><br><em>Chengzu Li, Wenshan Wu, Huanyu Zhang, Yan Xia, Shaoguang Mao, Li Dong, Ivan Vulić, Furu Wei</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> <img src="https://img.shields.io/badge/spatial-blue" alt="spatial Badge"> <img src="https://img.shields.io/badge/cot-blue" alt="cot Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2501.07542"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -859,7 +859,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Open Eyes, Then Reason: Fine-grained Visual Mathematical Understanding
   in MLLMs</strong><br><em>Shan Zhang, Aotian Chen, Yanpeng Sun, Jindong Gu, Yi-Yu Zheng, Piotr Koniusz, Kai Zou, Anton van den Hengel, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/grounding-blue" alt="grounding Badge"> <img src="https://img.shields.io/badge/metric-blue" alt="metric Badge"> <img src="https://img.shields.io/badge/math-blue" alt="math Badge"> <img src="https://img.shields.io/badge/contrastive-blue" alt="contrastive Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2501.06430"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -874,7 +874,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Commonsense Video Question Answering through Video-Grounded Entailment
   Tree Reasoning</strong><br><em>Huabin Liu, Filip Ilievski, Cees G. M. Snoek</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/video-blue" alt="video Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2501.05069"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -897,7 +897,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 10%;">2025-01-07</td>
 <td style="width: 40%;"><strong>SMIR: Efficient Synthetic Data Pipeline To Improve Multi-Image Reasoning</strong><br><em>Andrew Li, Rahul Thapa, Rahul Chalamala, Qingyang Wu, Kezhen Chen, James Zou</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/synthetic data-blue" alt="synthetic data Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2501.03675"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -905,7 +905,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Socratic Questioning: Learn to Self-guide Multimodal Reasoning in the
   Wild</strong><br><em>Wanpeng Hu, Haodi Liu, Lin Chen, Feng Zhou, Changming Xiao, Qi Yang, Changshui Zhang</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> <img src="https://img.shields.io/badge/instruction tun-blue" alt="instruction tun Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/cot-blue" alt="cot Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2501.02964"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -921,7 +921,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Generalizing from SIMPLE to HARD Visual Reasoning: Can We Mitigate
   Modality Imbalance in VLMs?</strong><br><em>Simon Park, Abhishek Panigrahi, Yun Cheng, Dingli Yu, Anirudh Goyal, Sanjeev Arora</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/auto regressive-blue" alt="auto regressive Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/alignment-blue" alt="alignment Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2501.02669"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -929,7 +929,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>MoColl: Agent-Based Specific and General Model Collaboration for Image
   Captioning</strong><br><em>Pu Yang, Bin Dong</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/captioning-blue" alt="captioning Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2501.01834"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -958,14 +958,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via
   Collective Monte Carlo Tree Search</strong><br><em>Huanjin Yao, Jiaxing Huang, Wenhao Wu, Jingyi Zhang, Yibo Wang, Shunyu Liu, Yingjie Wang, Yuxin Song, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/reflect-blue" alt="reflect Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/search-blue" alt="search Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.18319"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-12-24</td>
 <td style="width: 40%;"><strong>MMFactory: A Universal Solution Search Engine for Vision-Language Tasks</strong><br><em>Wan-Cyuan Fan, Tanzila Rahman, Leonid Sigal</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/metric-blue" alt="metric Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/search-blue" alt="search Badge"> <img src="https://img.shields.io/badge/program-blue" alt="program Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.18072"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -979,7 +979,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 10%;">2024-12-23</td>
 <td style="width: 40%;"><strong>Diving into Self-Evolving Training for Multimodal Reasoning</strong><br><em>Wei Liu, Junlong Li, Xiwen Zhang, Fan Zhou, Yu Cheng, Junxian He</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/reward model-blue" alt="reward model Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.17451"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1003,28 +1003,28 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Benchmarking and Improving Large Vision-Language Models for Fundamental
   Visual Graph Understanding and Reasoning</strong><br><em>Yingjie Zhu, Xuefeng Bai, Kehai Chen, Yang Xiang, Jun Yu, Min Zhang</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/lvlm-blue" alt="lvlm Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.13540"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-12-15</td>
 <td style="width: 40%;"><strong>Combating Multimodal LLM Hallucination via Bottom-Up Holistic Reasoning</strong><br><em>Shengqiong Wu, Hao Fei, Liangming Pan, William Yang Wang, Shuicheng Yan, Tat-Seng Chua</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/vision language-blue" alt="vision language Badge"> <img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.11124"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-12-12</td>
 <td style="width: 40%;"><strong>VCA: Video Curious Agent for Long Video Understanding</strong><br><em>Zeyuan Yang, Delin Chen, Xueyang Yu, Maohao Shen, Chuang Gan</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/efficient-blue" alt="efficient Badge"> <img src="https://img.shields.io/badge/video-blue" alt="video Badge"> <img src="https://img.shields.io/badge/agent-blue" alt="agent Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.10471"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-12-12</td>
 <td style="width: 40%;"><strong>TimeRefine: Temporal Grounding with Time Refining Video LLM</strong><br><em>Xizi Wang, Feng Cheng, Ziyang Wang, Huiyu Wang, Md Mohaiminul Islam, Lorenzo Torresani, Mohit Bansal, Gedas Bertasius, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/temporal-blue" alt="temporal Badge"> <img src="https://img.shields.io/badge/self improv-blue" alt="self improv Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.09601"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1039,21 +1039,21 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 10%;">2024-12-12</td>
 <td style="width: 40%;"><strong>ViUniT: Visual Unit Tests for More Robust Visual Programming</strong><br><em>Artemis Panagopoulou, Honglu Zhou, Silvio Savarese, Caiming Xiong, Chris Callison-Burch, Mark Yatskar, Juan Carlos Niebles</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/program-blue" alt="program Badge"> <img src="https://img.shields.io/badge/rl-blue" alt="rl Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.08859"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-12-11</td>
 <td style="width: 40%;"><strong>Multimodal Latent Language Modeling with Next-Token Diffusion</strong><br><em>Yutao Sun, Hangbo Bao, Wenhui Wang, Zhiliang Peng, Li Dong, Shaohan Huang, Jianyong Wang, Furu Wei</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/auto regressive-blue" alt="auto regressive Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/diffusion-blue" alt="diffusion Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.08635"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-12-11</td>
 <td style="width: 40%;"><strong>Template-Based Visual Program Distillation</strong><br><em>Michal Shlapentokh-Rothman, Yu-Xiong Wang, Derek Hoiem</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/synthetic data-blue" alt="synthetic data Badge"> <img src="https://img.shields.io/badge/program-blue" alt="program Badge"> <img src="https://img.shields.io/badge/efficiency-blue" alt="efficiency Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.08564"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1061,7 +1061,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Process of Elimination using
   Multi-Modal Models</strong><br><em>Sayak Chakrabarty, Souradip Pal</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/zero shot-blue" alt="zero shot Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/few shot-blue" alt="few shot Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.07148"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1069,7 +1069,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>ProVision: Programmatically Scaling Vision-centric Instruction Data for
   Multimodal Language Models</strong><br><em>Jieyu Zhang, Le Xue, Linxin Song, Jun Wang, Weikai Huang, Manli Shu, An Yan, Zixian Ma, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/data generation-blue" alt="data generation Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/program-blue" alt="program Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.07012"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1077,7 +1077,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>TACO: Learning Multi-modal Action Models with Synthetic
   Chains-of-Thought-and-Action</strong><br><em>Zixian Ma, Jianguo Zhang, Zhiwei Liu, Jieyu Zhang, Juntao Tan, Manli Shu, Juan Carlos Niebles, Shelby Heinecke, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/instruction tun-blue" alt="instruction tun Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/cot-blue" alt="cot Badge"> <img src="https://img.shields.io/badge/tool-blue" alt="tool Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.05479"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1085,14 +1085,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>CompCap: Improving Multimodal Large Language Models with Composite
   Captions</strong><br><em>Xiaohui Chen, Satya Narayan Shukla, Mahmoud Azab, Aashu Singh, Qifan Wang, David Yang, ShengYun Peng, Hanchao Yu, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/supervised fine tuning-blue" alt="supervised fine tuning Badge"> <img src="https://img.shields.io/badge/alignment-blue" alt="alignment Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.05243"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-12-06</td>
 <td style="width: 40%;"><strong>EACO: Enhancing Alignment in Multimodal LLMs via Critical Observation</strong><br><em>Yongxin Wang, Meng Cao, Haokun Lin, Mingfei Han, Liang Ma, Jin Jiang, Yuhao Cheng, Xiaodan Liang</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/preference-blue" alt="preference Badge"> <img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> <img src="https://img.shields.io/badge/supervised fine tuning-blue" alt="supervised fine tuning Badge"> <img src="https://img.shields.io/badge/dpo-blue" alt="dpo Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> <img src="https://img.shields.io/badge/evaluation-blue" alt="evaluation Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.04903"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1100,28 +1100,28 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Scaling Inference-Time Search with Vision Value Model for Improved
   Visual Comprehension</strong><br><em>Xiyao Wang, Zhengyuan Yang, Linjie Li, Hongjin Lu, Yuancheng Xu, Chung-Ching Lin, Kevin Lin, Furong Huang, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/self improv-blue" alt="self improv Badge"> <img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> <img src="https://img.shields.io/badge/inference time-blue" alt="inference time Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.03704"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-12-04</td>
 <td style="width: 40%;"><strong>Perception Tokens Enhance Visual Reasoning in Multimodal Language Models</strong><br><em>Mahtab Bigverdi, Zelun Luo, Cheng-Yu Hsieh, Ethan Shen, Dongping Chen, Linda G. Shapiro, Ranjay Krishna</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/object detect-blue" alt="object detect Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/tool-blue" alt="tool Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.03548"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-12-03</td>
 <td style="width: 40%;"><strong>Progress-Aware Video Frame Captioning</strong><br><em>Zihui Xue, Joungbin An, Xitong Yang, Kristen Grauman</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/dataset-blue" alt="dataset Badge"> <img src="https://img.shields.io/badge/fine grained-blue" alt="fine grained Badge"> <img src="https://img.shields.io/badge/temporal-blue" alt="temporal Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/video-blue" alt="video Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.02071"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-12-02</td>
 <td style="width: 40%;"><strong>Enhancing Video-LLM Reasoning via Agent-of-Thoughts Distillation</strong><br><em>Yudi Shi, Shangzhe Di, Qirui Chen, Weidi Xie</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/instruction tun-blue" alt="instruction tun Badge"> <img src="https://img.shields.io/badge/temporal-blue" alt="temporal Badge"> <img src="https://img.shields.io/badge/agent-blue" alt="agent Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/cot-blue" alt="cot Badge"> <img src="https://img.shields.io/badge/verification-blue" alt="verification Badge"> <img src="https://img.shields.io/badge/video-blue" alt="video Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.01694"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1158,7 +1158,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Thinking Before Looking: Improving Multimodal LLM Reasoning via
   Mitigating Visual Hallucination</strong><br><em>Haojie Zheng, Tianyang Xu, Hanchi Sun, Shu Pu, Ruoxi Chen, Lichao Sun</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/cot-blue" alt="cot Badge"> <img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2411.12591"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1166,14 +1166,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Enhancing the Reasoning Ability of Multimodal Large Language Models via
   Mixed Preference Optimization</strong><br><em>Weiyun Wang, Zhe Chen, Wenhai Wang, Yue Cao, Yangzhou Liu, Zhangwei Gao, Jinguo Zhu, Xizhou Zhu, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/preference-blue" alt="preference Badge"> <img src="https://img.shields.io/badge/distribution shift-blue" alt="distribution shift Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/cot-blue" alt="cot Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2411.10442"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-11-15</td>
 <td style="width: 40%;"><strong>LLaVA-CoT: Let Vision Language Models Reason Step-by-Step</strong><br><em>Guowei Xu, Peng Jin, Hao Li, Yibing Song, Lichao Sun, Li Yuan</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/inference time-blue" alt="inference time Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2411.10440"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1187,7 +1187,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 10%;">2024-10-30</td>
 <td style="width: 40%;"><strong>Vision-Language Models Can Self-Improve Reasoning via Reflection</strong><br><em>Kanzhi Cheng, Yantao Li, Fangzhi Xu, Jianbing Zhang, Hao Zhou, Yang Liu</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/self refine-blue" alt="self refine Badge"> <img src="https://img.shields.io/badge/self training-blue" alt="self training Badge"> <img src="https://img.shields.io/badge/vision language-blue" alt="vision language Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/cot-blue" alt="cot Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2411.00855"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1195,7 +1195,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Natural Language Inference Improves Compositionality in Vision-Language
   Models</strong><br><em>Paola Cascante-Bonilla, Yu Hou, Yang Trista Cao, Hal Daumé III, Rachel Rudinger</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2410.22315"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1226,7 +1226,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>R-CoT: Reverse Chain-of-Thought Problem Generation for Geometric
   Reasoning in Large Multimodal Models</strong><br><em>Linger Deng, Yuliang Liu, Bohan Li, Dongliang Luo, Liang Wu, Chengquan Zhang, Pengyuan Lyu, Ziyang Zhang, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/metric-blue" alt="metric Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/cot-blue" alt="cot Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2410.17885"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1240,7 +1240,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 10%;">2024-10-21</td>
 <td style="width: 40%;"><strong>Improve Vision Language Model Chain-of-thought Reasoning</strong><br><em>Ruohong Zhang, Bowen Zhang, Yanghao Li, Haotian Zhang, Zhiqing Sun, Zhe Gan, Yinfei Yang, Ruoming Pang, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/rl-blue" alt="rl Badge"> <img src="https://img.shields.io/badge/distillation-blue" alt="distillation Badge"> <img src="https://img.shields.io/badge/cot-blue" alt="cot Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2410.16198"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1262,7 +1262,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 10%;">2024-10-12</td>
 <td style="width: 40%;"><strong>Reconstructive Visual Instruction Tuning</strong><br><em>Haochen Wang, Anlin Zheng, Yucheng Zhao, Tiancai Wang, Zheng Ge, Xiangyu Zhang, Zhaoxiang Zhang</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> <img src="https://img.shields.io/badge/instruction tun-blue" alt="instruction tun Badge"> <img src="https://img.shields.io/badge/fine grained-blue" alt="fine grained Badge"> <img src="https://img.shields.io/badge/spatial-blue" alt="spatial Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2410.09575"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1270,7 +1270,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>VLFeedback: A Large-Scale AI Feedback Dataset for Large Vision-Language
   Models Alignment</strong><br><em>Lei Li, Zhihui Xie, Mukai Li, Shunian Chen, Peiyi Wang, Liang Chen, Yazheng Yang, Benyou Wang, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/lvlm-blue" alt="lvlm Badge"> <img src="https://img.shields.io/badge/feedback-blue" alt="feedback Badge"> <img src="https://img.shields.io/badge/dataset-blue" alt="dataset Badge"> <img src="https://img.shields.io/badge/alignment-blue" alt="alignment Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2410.09421"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1278,7 +1278,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Emerging Pixel Grounding in Large Multimodal Models Without Grounding
   Supervision</strong><br><em>Shengcao Cao, Liang-Yan Gui, Yu-Xiong Wang</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/segmentation-blue" alt="segmentation Badge"> <img src="https://img.shields.io/badge/grounding-blue" alt="grounding Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/attention-blue" alt="attention Badge"> <img src="https://img.shields.io/badge/diffusion-blue" alt="diffusion Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2410.08209"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1294,7 +1294,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>TLDR: Token-Level Detective Reward Model for Large Vision Language
   Models</strong><br><em>Deqing Fu, Tong Xiao, Rui Wang, Wang Zhu, Pengchuan Zhang, Guan Pang, Robin Jia, Lawrence Chen</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/reward model-blue" alt="reward model Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> <img src="https://img.shields.io/badge/efficiency-blue" alt="efficiency Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2410.04734"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1302,7 +1302,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Look Twice Before You Answer: Memory-Space Visual Retracing for
   Hallucination Mitigation in Multimodal Large Language Models</strong><br><em>Xin Zou, Yizhou Wang, Yibo Yan, Sirui Huang, Kening Zheng, Junkai Chen, Chang Tang, Xuming Hu</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/memory-blue" alt="memory Badge"> <img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2410.03577"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1310,7 +1310,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Visual-O1: Understanding Ambiguous Instructions via Multi-modal
   Multi-turn Chain-of-thoughts Reasoning</strong><br><em>Minheng Ni, Yutao Fan, Lei Zhang, Wangmeng Zuo</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/efficiency-blue" alt="efficiency Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/cot-blue" alt="cot Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2410.03321"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1325,7 +1325,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 10%;">2024-10-03</td>
 <td style="width: 40%;"><strong>LLaVA-Critic: Learning to Evaluate Multimodal Models</strong><br><em>Tianyi Xiong, Xiyao Wang, Dong Guo, Qinghao Ye, Haoqi Fan, Quanquan Gu, Heng Huang, Chunyuan Li</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/preference-blue" alt="preference Badge"> <img src="https://img.shields.io/badge/evaluation-blue" alt="evaluation Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/feedback-blue" alt="feedback Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2410.02712"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1339,7 +1339,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 10%;">2024-09-28</td>
 <td style="width: 40%;"><strong>Visual Question Decomposition on Multimodal Large Language Models</strong><br><em>Haowei Zhang, Jianzhe Liu, Zhen Han, Shuo Chen, Bailan He, Volker Tresp, Zhiqiang Xu, Jindong Gu</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/evaluation-blue" alt="evaluation Badge"> <img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/policy-blue" alt="policy Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2409.19339"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1354,14 +1354,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>BoViLA: Bootstrapping Video-Language Alignment via LLM-Based
   Self-Questioning and Answering</strong><br><em>Jin Chen, Kaijing Ma, Haojian Huang, Jiayu Shen, Han Fang, Xianghao Zang, Chao Ban, Zhongjiang He, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/self training-blue" alt="self training Badge"> <img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/alignment-blue" alt="alignment Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2410.02768"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-09-12</td>
 <td style="width: 40%;"><strong>What Makes a Maze Look Like a Maze?</strong><br><em>Joy Hsu, Jiayuan Mao, Joshua B. Tenenbaum, Noah D. Goodman, Jiajun Wu</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/grounding-blue" alt="grounding Badge"> <img src="https://img.shields.io/badge/evaluation-blue" alt="evaluation Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2409.08202"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1376,14 +1376,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Look, Compare, Decide: Alleviating Hallucination in Large
   Vision-Language Models via Multi-View Multi-Path Reasoning</strong><br><em>Xiaoye Qu, Jiashuo Sun, Wei Wei, Yu Cheng</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/lvlm-blue" alt="lvlm Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/training free-blue" alt="training free Badge"> <img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2408.17150"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-08-26</td>
 <td style="width: 40%;"><strong>Grounded Multi-Hop VideoQA in Long-Form Egocentric Videos</strong><br><em>Qirui Chen, Shangzhe Di, Weidi Xie</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/dataset-blue" alt="dataset Badge"> <img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/grounding-blue" alt="grounding Badge"> <img src="https://img.shields.io/badge/temporal-blue" alt="temporal Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/video-blue" alt="video Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2408.14469"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1391,7 +1391,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Making Large Language Models Better Planners with Reasoning-Decision
   Alignment</strong><br><em>Zhijian Huang, Tao Tang, Shaoxiang Chen, Sihao Lin, Zequn Jie, Lin Ma, Guangrun Wang, Xiaodan Liang</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/alignment-blue" alt="alignment Badge"> <img src="https://img.shields.io/badge/cot-blue" alt="cot Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2408.13890"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1399,7 +1399,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>SEA: Supervised Embedding Alignment for Token-Level Visual-Textual
   Integration in MLLMs</strong><br><em>Yuanyang Yin, Yaqi Zhao, Yajie Zhang, Ke Lin, Jiahao Wang, Xin Tao, Pengfei Wan, Di Zhang, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/contrastive-blue" alt="contrastive Badge"> <img src="https://img.shields.io/badge/vision language-blue" alt="vision language Badge"> <img src="https://img.shields.io/badge/alignment-blue" alt="alignment Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2408.11813"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1407,7 +1407,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>CLIP-DPO: Vision-Language Models as a Source of Preference for Fixing
   Hallucinations in LVLMs</strong><br><em>Yassine Ouali, Adrian Bulat, Brais Martinez, Georgios Tzimiropoulos</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/preference-blue" alt="preference Badge"> <img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> <img src="https://img.shields.io/badge/lvlm-blue" alt="lvlm Badge"> <img src="https://img.shields.io/badge/vision language-blue" alt="vision language Badge"> <img src="https://img.shields.io/badge/dpo-blue" alt="dpo Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2408.10433"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1428,14 +1428,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 10%;">2024-08-09</td>
 <td style="width: 40%;"><strong>Instruction Tuning-free Visual Token Complement for Multimodal LLMs</strong><br><em>Dongsheng Wang, Jiequan Cui, Miaoge Li, Wang Lin, Bo Chen, Hanwang Zhang</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/instruction tun-blue" alt="instruction tun Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2408.05019"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-08-07</td>
 <td style="width: 40%;"><strong>How Well Can Vision Language Models See Image Details?</strong><br><em>Chenhui Gou, Abdulwahab Felemban, Faizan Farooq Khan, Deyao Zhu, Jianfei Cai, Hamid Rezatofighi, Mohamed Elhoseiny</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/supervised fine tuning-blue" alt="supervised fine tuning Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2408.03940"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1451,7 +1451,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Mini-Monkey: Alleviating the Semantic Sawtooth Effect for Lightweight
   MLLMs via Complementary Image Pyramid</strong><br><em>Mingxin Huang, Yuliang Liu, Dingkang Liang, Lianwen Jin, Xiang Bai</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/efficient-blue" alt="efficient Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2408.02034"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1459,7 +1459,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Self-Introspective Decoding: Alleviating Hallucinations for Large
   Vision-Language Models</strong><br><em>Fushuo Huo, Wenchao Xu, Zhong Zhang, Haozhao Wang, Zhicheng Chen, Peilin Zhao</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/lvlm-blue" alt="lvlm Badge"> <img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> <img src="https://img.shields.io/badge/contrastive-blue" alt="contrastive Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2408.02032"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1473,7 +1473,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 10%;">2024-07-24</td>
 <td style="width: 40%;"><strong>VILA$^2$: VILA Augmented VILA</strong><br><em>Yunhao Fang, Ligeng Zhu, Yao Lu, Yan Wang, Pavlo Molchanov, Jan Kautz, Jang Hyun Cho, Marco Pavone, et al.</em></td>
 <td style="width: 20%;"></td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2407.17453"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1481,7 +1481,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Reflective Instruction Tuning: Mitigating Hallucinations in Large
   Vision-Language Models</strong><br><em>Jinrui Zhang, Teng Wang, Haigang Zhang, Ping Lu, Feng Zheng</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/dataset-blue" alt="dataset Badge"> <img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> <img src="https://img.shields.io/badge/reflect-blue" alt="reflect Badge"> <img src="https://img.shields.io/badge/lvlm-blue" alt="lvlm Badge"> <img src="https://img.shields.io/badge/fine grained-blue" alt="fine grained Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2407.11422"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1489,7 +1489,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Video-STaR: Self-Training Enables Video Instruction Tuning with Any
   Supervision</strong><br><em>Orr Zohar, Xiaohan Wang, Yonatan Bitton, Idan Szpektor, Serena Yeung-Levy</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/lvlm-blue" alt="lvlm Badge"> <img src="https://img.shields.io/badge/dataset-blue" alt="dataset Badge"> <img src="https://img.shields.io/badge/self training-blue" alt="self training Badge"> <img src="https://img.shields.io/badge/video-blue" alt="video Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2407.06189"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1497,7 +1497,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Rethinking Visual Prompting for Multimodal Large Language Models with
   External Knowledge</strong><br><em>Yuanze Lin, Yunsheng Li, Dongdong Chen, Weijian Xu, Ronald Clark, Philip Torr, Lu Yuan</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/segmentation-blue" alt="segmentation Badge"> <img src="https://img.shields.io/badge/fine grained-blue" alt="fine grained Badge"> <img src="https://img.shields.io/badge/retrieval-blue" alt="retrieval Badge"> <img src="https://img.shields.io/badge/spatial-blue" alt="spatial Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2407.04681"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1505,7 +1505,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Align and Aggregate: Compositional Reasoning with Video Alignment and
   Answer Aggregation for Video Question-Answering</strong><br><em>Zhaohe Liao, Jiangtong Li, Li Niu, Liqing Zhang</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/contrastive-blue" alt="contrastive Badge"> <img src="https://img.shields.io/badge/alignment-blue" alt="alignment Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2407.03008"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1513,7 +1513,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>From the Least to the Most: Building a Plug-and-Play Visual Reasoner via
   Data Synthesis</strong><br><em>Chuanqi Cheng, Jian Guan, Wei Wu, Rui Yan</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/supervised fine tuning-blue" alt="supervised fine tuning Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/search-blue" alt="search Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2406.19934"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1521,7 +1521,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>OmAgent: A Multi-modal Agent Framework for Complex Video Understanding
   with Task Divide-and-Conquer</strong><br><em>Lu Zhang, Tiancheng Zhao, Heting Ying, Yibo Ma, Kyusong Lee</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/video-blue" alt="video Badge"> <img src="https://img.shields.io/badge/tool-blue" alt="tool Badge"> <img src="https://img.shields.io/badge/agent-blue" alt="agent Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2406.16620"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1537,14 +1537,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Investigating Video Reasoning Capability of Large Language Models with
   Tropes in Movies</strong><br><em>Hung-Ting Su, Chun-Tong Chao, Ya-Ching Hsu, Xudong Lin, Yulei Niu, Hung-Yi Lee, Winston H. Hsu</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/dataset-blue" alt="dataset Badge"> <img src="https://img.shields.io/badge/video-blue" alt="video Badge"> <img src="https://img.shields.io/badge/program-blue" alt="program Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2406.10923"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-06-13</td>
 <td style="width: 40%;"><strong>LLAVIDAL: A Large LAnguage VIsion Model for Daily Activities of Living</strong><br><em>Dominick Reilly, Rajatsubhra Chakraborty, Arkaprava Sinha, Manish Kumar Govind, Pu Wang, Francois Bremond, Le Xue, Srijan Das</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2406.09390"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1582,7 +1582,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 10%;">2024-06-02</td>
 <td style="width: 40%;"><strong>FuRL: Visual-Language Models as Fuzzy Rewards for Reinforcement Learning</strong><br><em>Yuwei Fu, Haichao Zhang, Di Wu, Wei Xu, Benoit Boulet</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/alignment-blue" alt="alignment Badge"> <img src="https://img.shields.io/badge/rl-blue" alt="rl Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2406.00645"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1598,7 +1598,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>VideoTree: Adaptive Tree-based Video Representation for LLM Reasoning on
   Long Videos</strong><br><em>Ziyang Wang, Shoubin Yu, Elias Stengel-Eskin, Jaehong Yoon, Feng Cheng, Gedas Bertasius, Mohit Bansal</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/captioning-blue" alt="captioning Badge"> <img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/video-blue" alt="video Badge"> <img src="https://img.shields.io/badge/efficiency-blue" alt="efficiency Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2405.19209"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1606,7 +1606,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>DynRefer: Delving into Region-level Multimodal Tasks via Dynamic
   Resolution</strong><br><em>Yuzhong Zhao, Feng Liu, Yue Liu, Mingxiang Liao, Chen Gong, Qixiang Ye, Fang Wan</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/alignment-blue" alt="alignment Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2405.16071"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1621,7 +1621,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Image-of-Thought Prompting for Visual Reasoning Refinement in Multimodal
   Large Language Models</strong><br><em>Qiji Zhou, Ruochen Zhou, Zike Hu, Panzhong Lu, Siyang Gao, Yue Zhang</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/zero shot-blue" alt="zero shot Badge"> <img src="https://img.shields.io/badge/cot-blue" alt="cot Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2405.13872"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1629,7 +1629,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Video-of-Thought: Step-by-Step Video Reasoning from Perception to
   Cognition</strong><br><em>Hao Fei, Shengqiong Wu, Wei Ji, Hanwang Zhang, Meishan Zhang, Mong-Li Lee, Wynne Hsu</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/cot-blue" alt="cot Badge"> <img src="https://img.shields.io/badge/temporal-blue" alt="temporal Badge"> <img src="https://img.shields.io/badge/video-blue" alt="video Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2501.03230"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1637,7 +1637,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>WorldQA: Multimodal World Knowledge in Videos through Long-Chain
   Reasoning</strong><br><em>Yuanhan Zhang, Kaichen Zhang, Bo Li, Fanyi Pu, Christopher Arif Setiadharma, Jingkang Yang, Ziwei Liu</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/dataset-blue" alt="dataset Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/video-blue" alt="video Badge"> <img src="https://img.shields.io/badge/rl-blue" alt="rl Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2405.03272"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1652,14 +1652,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 10%;">2024-04-28</td>
 <td style="width: 40%;"><strong>Exposing Text-Image Inconsistency Using Diffusion Models</strong><br><em>Mingzhen Huang, Shan Jia, Zhou Zhou, Yan Ju, Jialing Cai, Siwei Lyu</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/evaluation-blue" alt="evaluation Badge"> <img src="https://img.shields.io/badge/dataset-blue" alt="dataset Badge"> <img src="https://img.shields.io/badge/diffusion-blue" alt="diffusion Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2404.18033"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-04-24</td>
 <td style="width: 40%;"><strong>Step Differences in Instructional Video</strong><br><em>Tushar Nagarajan, Lorenzo Torresani</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/o1-blue" alt="o1 Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/video-blue" alt="video Badge"> <img src="https://img.shields.io/badge/instruction tun-blue" alt="instruction tun Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2404.16222"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1667,7 +1667,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>EventLens: Leveraging Event-Aware Pretraining and Cross-modal Linking
   Enhances Visual Commonsense Reasoning</strong><br><em>Mingjie Ma, Zhihuan Yu, Yichao Ma, Guohui Li</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/alignment-blue" alt="alignment Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2404.13847"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1675,7 +1675,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Socratic Planner: Self-QA-Based Zero-Shot Planning for Embodied
   Instruction Following</strong><br><em>Suyeon Shin, Sujin jeon, Junghyun Kim, Gi-Cheon Kang, Byoung-Tak Zhang</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/planning-blue" alt="planning Badge"> <img src="https://img.shields.io/badge/embodied-blue" alt="embodied Badge"> <img src="https://img.shields.io/badge/metric-blue" alt="metric Badge"> <img src="https://img.shields.io/badge/zero shot-blue" alt="zero shot Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2404.15190"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1689,28 +1689,28 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 10%;">2024-04-15</td>
 <td style="width: 40%;"><strong>TextCoT: Zoom In for Enhanced Multimodal Text-Rich Image Understanding</strong><br><em>Bozhi Luan, Hao Feng, Hong Chen, Yonghui Wang, Wengang Zhou, Houqiang Li</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/plug and play-blue" alt="plug and play Badge"> <img src="https://img.shields.io/badge/fine grained-blue" alt="fine grained Badge"> <img src="https://img.shields.io/badge/grounding-blue" alt="grounding Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/cot-blue" alt="cot Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2404.09797"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-04-11</td>
 <td style="width: 40%;"><strong>Learning to Localize Objects Improves Spatial Reasoning in Visual-LLMs</strong><br><em>Kanchana Ranasinghe, Satya Narayan Shukla, Omid Poursaeed, Michael S. Ryoo, Tsung-Yu Lin</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/data generation-blue" alt="data generation Badge"> <img src="https://img.shields.io/badge/spatial-blue" alt="spatial Badge"> <img src="https://img.shields.io/badge/vision language-blue" alt="vision language Badge"> <img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2404.07449"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-04-09</td>
 <td style="width: 40%;"><strong>MoReVQA: Exploring Modular Reasoning Models for Video Question Answering</strong><br><em>Juhong Min, Shyamal Buch, Arsha Nagrani, Minsu Cho, Cordelia Schmid</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/grounding-blue" alt="grounding Badge"> <img src="https://img.shields.io/badge/memory-blue" alt="memory Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/few shot-blue" alt="few shot Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2404.06511"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-04-09</td>
 <td style="width: 40%;"><strong>Can Feedback Enhance Semantic Grounding in Large Vision-Language Models?</strong><br><em>Yuan-Hong Liao, Rafid Mahmood, Sanja Fidler, David Acuna</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/feedback-blue" alt="feedback Badge"> <img src="https://img.shields.io/badge/grounding-blue" alt="grounding Badge"> <img src="https://img.shields.io/badge/verification-blue" alt="verification Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2404.06510"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1718,14 +1718,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Neural-Symbolic VideoQA: Learning Compositional Spatio-Temporal
   Reasoning for Real-world Video Question Answering</strong><br><em>Lili Liang, Guanglu Sun, Jin Qiu, Lizhong Zhang</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/symbolic-blue" alt="symbolic Badge"> <img src="https://img.shields.io/badge/temporal-blue" alt="temporal Badge"> <img src="https://img.shields.io/badge/program-blue" alt="program Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2404.04007"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-04-02</td>
 <td style="width: 40%;"><strong>VLRM: Vision-Language Models act as Reward Models for Image Captioning</strong><br><em>Maksim Dzabraev, Alexander Kunitsyn, Andrei Ivaniuta</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/dataset-blue" alt="dataset Badge"> <img src="https://img.shields.io/badge/captioning-blue" alt="captioning Badge"> <img src="https://img.shields.io/badge/rl-blue" alt="rl Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2404.01911"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1733,7 +1733,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Direct Preference Optimization of Video Large Multimodal Models from
   Language Model Reward</strong><br><em>Ruohong Zhang, Liangke Gui, Zhiqing Sun, Yihao Feng, Keyang Xu, Yuanhan Zhang, Di Fu, Chunyuan Li, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> <img src="https://img.shields.io/badge/preference-blue" alt="preference Badge"> <img src="https://img.shields.io/badge/reward model-blue" alt="reward model Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/dpo-blue" alt="dpo Badge"> <img src="https://img.shields.io/badge/video-blue" alt="video Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2404.01258"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1748,7 +1748,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 10%;">2024-03-28</td>
 <td style="width: 40%;"><strong>Plug-and-Play Grounding of Reasoning in Multimodal Large Language Models</strong><br><em>Jiaxing Chen, Yuxuan Liu, Dehu Li, Xiang An, Weimo Deng, Ziyong Feng, Yongle Zhao, Yin Xie</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/plug and play-blue" alt="plug and play Badge"> <img src="https://img.shields.io/badge/high resolution-blue" alt="high resolution Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/agent-blue" alt="agent Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2403.19322"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1756,7 +1756,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive
   Dataset and Benchmark for Chain-of-Thought Reasoning</strong><br><em>Hao Shao, Shengju Qian, Han Xiao, Guanglu Song, Zhuofan Zong, Letian Wang, Yu Liu, Hongsheng Li</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/cot-blue" alt="cot Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2403.16999"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1771,7 +1771,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>VURF: A General-purpose Reasoning and Self-refinement Framework for
   Video Understanding</strong><br><em>Ahmad Mahmood, Ashmal Vayani, Muzammal Naseer, Salman Khan, Fahad Shahbaz Khan</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/feedback-blue" alt="feedback Badge"> <img src="https://img.shields.io/badge/self refine-blue" alt="self refine Badge"> <img src="https://img.shields.io/badge/video-blue" alt="video Badge"> <img src="https://img.shields.io/badge/program-blue" alt="program Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2403.14743"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1779,21 +1779,21 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Chain-of-Spot: Interactive Reasoning Improves Large Vision-Language
   Models</strong><br><em>Zuyan Liu, Yuhao Dong, Yongming Rao, Jie Zhou, Jiwen Lu</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/lvlm-blue" alt="lvlm Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/vision language-blue" alt="vision language Badge"> <img src="https://img.shields.io/badge/region-blue" alt="region Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2403.12966"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-03-19</td>
 <td style="width: 40%;"><strong>HYDRA: A Hyper Agent for Dynamic Compositional Visual Reasoning</strong><br><em>Fucai Ke, Zhixi Cai, Simindokht Jahangard, Weiqing Wang, Pari Delir Haghighi, Hamid Rezatofighi</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/feedback-blue" alt="feedback Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/rl-blue" alt="rl Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2403.12884"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-03-15</td>
 <td style="width: 40%;"><strong>Generative Region-Language Pretraining for Open-Ended Object Detection</strong><br><em>Chuang Lin, Yi Jiang, Lizhen Qu, Zehuan Yuan, Jianfei Cai</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/zero shot-blue" alt="zero shot Badge"> <img src="https://img.shields.io/badge/object detect-blue" alt="object detect Badge"> <img src="https://img.shields.io/badge/region-blue" alt="region Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2403.10191"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1809,7 +1809,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>GiT: Towards Generalist Vision Transformer through Universal Language
   Interface</strong><br><em>Haiyang Wang, Hao Tang, Li Jiang, Shaoshuai Shi, Muhammad Ferjad Naeem, Hongsheng Li, Bernt Schiele, Liwei Wang</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/auto regressive-blue" alt="auto regressive Badge"> <img src="https://img.shields.io/badge/zero shot-blue" alt="zero shot Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2403.09394"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1817,35 +1817,35 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Griffon v2: Advancing Multimodal Perception with High-Resolution Scaling
   and Visual-Language Co-Referring</strong><br><em>Yufei Zhan, Yousong Zhu, Hongyin Zhao, Fan Yang, Ming Tang, Jinqiao Wang</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/high resolution-blue" alt="high resolution Badge"> <img src="https://img.shields.io/badge/vision language-blue" alt="vision language Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2403.09333"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-03-12</td>
 <td style="width: 40%;"><strong>Motion Mamba: Efficient and Long Sequence Motion Generation</strong><br><em>Zeyu Zhang, Akide Liu, Ian Reid, Richard Hartley, Bohan Zhuang, Hao Tang</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/spatial-blue" alt="spatial Badge"> <img src="https://img.shields.io/badge/efficient-blue" alt="efficient Badge"> <img src="https://img.shields.io/badge/temporal-blue" alt="temporal Badge"> <img src="https://img.shields.io/badge/diffusion-blue" alt="diffusion Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2403.07487"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-03-05</td>
 <td style="width: 40%;"><strong>Multi-modal Instruction Tuned LLMs with Fine-grained Visual Perception</strong><br><em>Junwen He, Yifan Wang, Lijun Wang, Huchuan Lu, Jun-Yan He, Jin-Peng Lan, Bin Luo, Xuansong Xie</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/grounding-blue" alt="grounding Badge"> <img src="https://img.shields.io/badge/referring expression-blue" alt="referring expression Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2403.02969"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-02-29</td>
 <td style="width: 40%;"><strong>TV-TREES: Multimodal Entailment Trees for Neuro-Symbolic Video Reasoning</strong><br><em>Kate Sanders, Nathaniel Weir, Benjamin Van Durme</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/evaluation-blue" alt="evaluation Badge"> <img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/video-blue" alt="video Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2402.19467"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-02-29</td>
 <td style="width: 40%;"><strong>Navigating Hallucinations for Reasoning of Unintentional Activities</strong><br><em>Shresth Grover, Vibhav Vineet, Yogesh S Rawat</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/zero shot-blue" alt="zero shot Badge"> <img src="https://img.shields.io/badge/metric-blue" alt="metric Badge"> <img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2402.19405"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1853,7 +1853,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Seeing is Believing: Mitigating Hallucination in Large Vision-Language
   Models via CLIP-Guided Decoding</strong><br><em>Ailin Deng, Zhirui Chen, Bryan Hooi</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/lvlm-blue" alt="lvlm Badge"> <img src="https://img.shields.io/badge/training free-blue" alt="training free Badge"> <img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2402.15300"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1861,7 +1861,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>DualFocus: Integrating Macro and Micro Perspectives in Multi-modal Large
   Language Models</strong><br><em>Yuhang Cao, Pan Zhang, Xiaoyi Dong, Dahua Lin, Jiaqi Wang</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/vision language-blue" alt="vision language Badge"> <img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2402.14767"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1869,14 +1869,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Stop Reasoning! When Multimodal LLM with Chain-of-Thought Reasoning
   Meets Adversarial Image</strong><br><em>Zefeng Wang, Zhen Han, Shuo Chen, Fan Xue, Zifeng Ding, Xun Xiao, Volker Tresp, Philip Torr, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/cot-blue" alt="cot Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2402.14899"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-02-22</td>
 <td style="width: 40%;"><strong>Visual Hallucinations of Multi-modal Large Language Models</strong><br><em>Wen Huang, Hongbin Liu, Minxin Guo, Neil Zhenqiang Gong</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2402.14683"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1884,7 +1884,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Less is More: Mitigating Multimodal Hallucination from an EOS Decision
   Perspective</strong><br><em>Zihao Yue, Liang Zhang, Qin Jin</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2402.14545"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1907,7 +1907,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>PCA-Bench: Evaluating Multimodal Large Language Models in
   Perception-Cognition-Action Chain</strong><br><em>Liang Chen, Yichi Zhang, Shuhuai Ren, Haozhe Zhao, Zefan Cai, Yuchi Wang, Peiyi Wang, Xiangdi Meng, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/evaluation-blue" alt="evaluation Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/instruction tun-blue" alt="instruction tun Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2402.15527"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1915,7 +1915,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>CounterCurate: Enhancing Physical and Semantic Visio-Linguistic
   Compositional Reasoning via Counterfactual Examples</strong><br><em>Jianrui Zhang, Mu Cai, Tengyang Xie, Yong Jae Lee</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2402.13254"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1930,7 +1930,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Logical Closed Loop: Uncovering Object Hallucinations in Large
   Vision-Language Models</strong><br><em>Junfei Wu, Qiang Liu, Ding Wang, Jinghao Zhang, Shu Wu, Liang Wang, Tieniu Tan</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> <img src="https://img.shields.io/badge/plug and play-blue" alt="plug and play Badge"> <img src="https://img.shields.io/badge/instruction tun-blue" alt="instruction tun Badge"> <img src="https://img.shields.io/badge/lvlm-blue" alt="lvlm Badge"> <img src="https://img.shields.io/badge/logic-blue" alt="logic Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2402.11622"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1938,7 +1938,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Revisiting Feature Prediction for Learning Visual Representations from
   Video</strong><br><em>Adrien Bardes, Quentin Garrido, Jean Ponce, Xinlei Chen, Michael Rabbat, Yann LeCun, Mahmoud Assran, Nicolas Ballas</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/evaluation-blue" alt="evaluation Badge"> <img src="https://img.shields.io/badge/video-blue" alt="video Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2404.08471"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1967,14 +1967,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>ViGoR: Improving Visual Grounding of Large Vision Language Models with
   Fine-Grained Reward Modeling</strong><br><em>Siming Yan, Min Bai, Weifeng Chen, Xiong Zhou, Qixing Huang, Li Erran Li</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/lvlm-blue" alt="lvlm Badge"> <img src="https://img.shields.io/badge/grounding-blue" alt="grounding Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/reward model-blue" alt="reward model Badge"> <img src="https://img.shields.io/badge/evaluation-blue" alt="evaluation Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2402.06118"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-02-06</td>
 <td style="width: 40%;"><strong>CogCoM: A Visual Language Model with Chain-of-Manipulations Reasoning</strong><br><em>Ji Qi, Ming Ding, Weihan Wang, Yushi Bai, Qingsong Lv, Wenyi Hong, Bin Xu, Lei Hou, et al.</em></td>
 <td style="width: 20%;"></td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2402.04236"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1982,7 +1982,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Skip \n: A Simple Method to Reduce Hallucination in Large
   Vision-Language Models</strong><br><em>Zongbo Han, Zechen Bai, Haiyang Mei, Qianli Xu, Changqing Zhang, Mike Zheng Shou</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2402.01345"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -1997,14 +1997,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>From Training-Free to Adaptive: Empirical Insights into MLLMs'
   Understanding of Detection Information</strong><br><em>Qirui Jiao, Daoyuan Chen, Yilun Huang, Yaliang Li, Ying Shen</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/fine grained-blue" alt="fine grained Badge"> <img src="https://img.shields.io/badge/object detect-blue" alt="object detect Badge"> <img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2401.17981"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-01-23</td>
 <td style="width: 40%;"><strong>CCA: Collaborative Competitive Agents for Image Editing</strong><br><em>Tiankai Hang, Shuyang Gu, Dong Chen, Xin Geng, Baining Guo</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2401.13011"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2012,21 +2012,21 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning
   Capabilities</strong><br><em>Boyuan Chen, Zhuo Xu, Sean Kirmani, Brian Ichter, Danny Driess, Pete Florence, Dorsa Sadigh, Leonidas Guibas, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/dataset-blue" alt="dataset Badge"> <img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/spatial-blue" alt="spatial Badge"> <img src="https://img.shields.io/badge/robotic-blue" alt="robotic Badge"> <img src="https://img.shields.io/badge/optimization-blue" alt="optimization Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2401.12168"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-01-18</td>
 <td style="width: 40%;"><strong>Improving fine-grained understanding in image-text pre-training</strong><br><em>Ioana Bica, Anastasija Ilić, Matthias Bauer, Goker Erdogan, Matko Bošnjak, Christos Kaplanis, Alexey A. Gritsenko, Matthias Minderer, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/contrastive-blue" alt="contrastive Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/alignment-blue" alt="alignment Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2401.09865"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-01-16</td>
 <td style="width: 40%;"><strong>Scalable Pre-training of Large Autoregressive Image Models</strong><br><em>Alaaeldin El-Nouby, Michal Klein, Shuangfei Zhai, Miguel Angel Bautista, Alexander Toshev, Vaishaal Shankar, Joshua M Susskind, Armand Joulin</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/auto regressive-blue" alt="auto regressive Badge"> <img src="https://img.shields.io/badge/scaling-blue" alt="scaling Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2401.08541"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2034,7 +2034,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Incorporating Visual Experts to Resolve the Information Loss in
   Multimodal Large Language Models</strong><br><em>Xin He, Longhui Wei, Lingxi Xie, Qi Tian</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/tool-blue" alt="tool Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2401.03105"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2042,7 +2042,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>LISA++: An Improved Baseline for Reasoning Segmentation with Large
   Language Model</strong><br><em>Senqiao Yang, Tianyuan Qu, Xin Lai, Zhuotao Tian, Bohao Peng, Shu Liu, Jiaya Jia</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/segmentation-blue" alt="segmentation Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2312.17240"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2050,21 +2050,21 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision,
   Language, Audio, and Action</strong><br><em>Jiasen Lu, Christopher Clark, Sangho Lee, Zichen Zhang, Savya Khosla, Ryan Marten, Derek Hoiem, Aniruddha Kembhavi</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/auto regressive-blue" alt="auto regressive Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2312.17172"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2023-12-23</td>
 <td style="width: 40%;"><strong>Cycle-Consistency Learning for Captioning and Grounding</strong><br><em>Ning Wang, Jiajun Deng, Mingbo Jia</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/grounding-blue" alt="grounding Badge"> <img src="https://img.shields.io/badge/captioning-blue" alt="captioning Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2312.15162"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2023-12-21</td>
 <td style="width: 40%;"><strong>V*: Guided Visual Search as a Core Mechanism in Multimodal LLMs</strong><br><em>Penghao Wu, Saining Xie</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/high resolution-blue" alt="high resolution Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/search-blue" alt="search Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2312.14135"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2072,7 +2072,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Jack of All Tasks, Master of Many: Designing General-purpose
   Coarse-to-Fine Vision-Language Model</strong><br><em>Shraman Pramanick, Guangxing Han, Rui Hou, Sayan Nag, Ser-Nam Lim, Nicolas Ballas, Qifan Wang, Rama Chellappa, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/dataset-blue" alt="dataset Badge"> <img src="https://img.shields.io/badge/segmentation-blue" alt="segmentation Badge"> <img src="https://img.shields.io/badge/instruction tun-blue" alt="instruction tun Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/vision language-blue" alt="vision language Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2312.12423"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2080,14 +2080,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Tuning LayerNorm in Attention: Towards Efficient Multi-Modal LLM
   Finetuning</strong><br><em>Bingchen Zhao, Haoqin Tu, Chen Wei, Jieru Mei, Cihang Xie</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/optimization-blue" alt="optimization Badge"> <img src="https://img.shields.io/badge/attention-blue" alt="attention Badge"> <img src="https://img.shields.io/badge/efficiency-blue" alt="efficiency Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2312.11420"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2023-12-17</td>
 <td style="width: 40%;"><strong>Silkie: Preference Distillation for Large Visual Language Models</strong><br><em>Lei Li, Zhihui Xie, Mukai Li, Shunian Chen, Peiyi Wang, Liang Chen, Yazheng Yang, Benyou Wang, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/preference-blue" alt="preference Badge"> <img src="https://img.shields.io/badge/lvlm-blue" alt="lvlm Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/dpo-blue" alt="dpo Badge"> <img src="https://img.shields.io/badge/feedback-blue" alt="feedback Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2312.10665"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2095,7 +2095,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Promptable Behaviors: Personalizing Multi-Objective Rewards from Human
   Preferences</strong><br><em>Minyoung Hwang, Luca Weihs, Chanwoo Park, Kimin Lee, Aniruddha Kembhavi, Kiana Ehsani</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/preference-blue" alt="preference Badge"> <img src="https://img.shields.io/badge/embodied-blue" alt="embodied Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/robotic-blue" alt="robotic Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2312.09337"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2103,7 +2103,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>VL-GPT: A Generative Pre-trained Transformer for Vision and Language
   Understanding and Generation</strong><br><em>Jinguo Zhu, Xiaohan Ding, Yixiao Ge, Yuying Ge, Sijie Zhao, Hengshuang Zhao, Xiaohua Wang, Ying Shan</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/auto regressive-blue" alt="auto regressive Badge"> <img src="https://img.shields.io/badge/zero shot-blue" alt="zero shot Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/few shot-blue" alt="few shot Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2312.09251"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2118,7 +2118,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 10%;">2023-12-12</td>
 <td style="width: 40%;"><strong>Interfacing Foundation Models' Embeddings</strong><br><em>Xueyan Zou, Linjie Li, Jianfeng Wang, Jianwei Yang, Mingyu Ding, Junyi Wei, Zhengyuan Yang, Feng Li, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/dataset-blue" alt="dataset Badge"> <img src="https://img.shields.io/badge/segmentation-blue" alt="segmentation Badge"> <img src="https://img.shields.io/badge/alignment-blue" alt="alignment Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/evaluation-blue" alt="evaluation Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2312.07532"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2126,14 +2126,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Vista-LLaMA: Reducing Hallucination in Video Language Models via Equal
   Distance to Visual Tokens</strong><br><em>Fan Ma, Xiaojie Jin, Heng Wang, Yuchen Xian, Jiashi Feng, Yi Yang</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> <img src="https://img.shields.io/badge/temporal-blue" alt="temporal Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/attention-blue" alt="attention Badge"> <img src="https://img.shields.io/badge/video-blue" alt="video Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2312.08870"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2023-12-06</td>
 <td style="width: 40%;"><strong>Mitigating Open-Vocabulary Caption Hallucinations</strong><br><em>Assaf Ben-Kish, Moran Yanuka, Morris Alper, Raja Giryes, Hadar Averbuch-Elor</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/captioning-blue" alt="captioning Badge"> <img src="https://img.shields.io/badge/rl-blue" alt="rl Badge"> <img src="https://img.shields.io/badge/optimization-blue" alt="optimization Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2312.03631"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2141,14 +2141,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Visual Program Distillation: Distilling Tools and Programmatic Reasoning
   into Vision-Language Models</strong><br><em>Yushi Hu, Otilia Stretcu, Chun-Ta Lu, Krishnamurthy Viswanathan, Kenji Hata, Enming Luo, Ranjay Krishna, Ariel Fuxman</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/instruction tun-blue" alt="instruction tun Badge"> <img src="https://img.shields.io/badge/retrieval-blue" alt="retrieval Badge"> <img src="https://img.shields.io/badge/program-blue" alt="program Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/distillation-blue" alt="distillation Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2312.03052"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2023-11-29</td>
 <td style="width: 40%;"><strong>Language-conditioned Detection Transformer</strong><br><em>Jang Hyun Cho, Philipp Krähenbühl</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/zero shot-blue" alt="zero shot Badge"> <img src="https://img.shields.io/badge/object detect-blue" alt="object detect Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2311.17902"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2156,14 +2156,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Mitigating Object Hallucinations in Large Vision-Language Models through
   Visual Contrastive Decoding</strong><br><em>Sicong Leng, Hang Zhang, Guanzheng Chen, Xin Li, Shijian Lu, Chunyan Miao, Lidong Bing</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/lvlm-blue" alt="lvlm Badge"> <img src="https://img.shields.io/badge/training free-blue" alt="training free Badge"> <img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> <img src="https://img.shields.io/badge/contrastive-blue" alt="contrastive Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2311.16922"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2023-11-22</td>
 <td style="width: 40%;"><strong>Visual In-Context Prompting</strong><br><em>Feng Li, Qing Jiang, Hao Zhang, Tianhe Ren, Shilong Liu, Xueyan Zou, Huaizhe Xu, Hongyang Li, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/segmentation-blue" alt="segmentation Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2311.13601"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2171,21 +2171,21 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Volcano: Mitigating Multimodal Hallucination through Self-Feedback
   Guided Revision</strong><br><em>Seongyun Lee, Sue Hyun Park, Yongrae Jo, Minjoon Seo</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/feedback-blue" alt="feedback Badge"> <img src="https://img.shields.io/badge/grounding-blue" alt="grounding Badge"> <img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2311.07362"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2023-11-11</td>
 <td style="width: 40%;"><strong>PerceptionGPT: Effectively Fusing Visual Perception into LLM</strong><br><em>Renjie Pi, Lewei Yao, Jiahui Gao, Jipeng Zhang, Tong Zhang</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/efficient-blue" alt="efficient Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2311.06612"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2023-11-06</td>
 <td style="width: 40%;"><strong>CogVLM: Visual Expert for Pretrained Language Models</strong><br><em>Weihan Wang, Qingsong Lv, Wenmeng Yu, Wenyi Hong, Ji Qi, Yan Wang, Junhui Ji, Zhuoyi Yang, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/vision language-blue" alt="vision language Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2311.03079"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2224,7 +2224,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>What Matters to You? Towards Visual Representation Alignment for Robot
   Learning</strong><br><em>Ran Tian, Chenfeng Xu, Masayoshi Tomizuka, Jitendra Malik, Andrea Bajcsy</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/preference-blue" alt="preference Badge"> <img src="https://img.shields.io/badge/alignment-blue" alt="alignment Badge"> <img src="https://img.shields.io/badge/efficiency-blue" alt="efficiency Badge"> <img src="https://img.shields.io/badge/robotic-blue" alt="robotic Badge"> <img src="https://img.shields.io/badge/feedback-blue" alt="feedback Badge"> <img src="https://img.shields.io/badge/zero shot-blue" alt="zero shot Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2310.07932"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2232,7 +2232,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>What If the TV Was Off? Examining Counterfactual Reasoning Abilities of
   Multi-modal Language Models</strong><br><em>Letian Zhang, Xiaotong Zhai, Zhongkai Zhao, Yongshuo Zong, Xin Wen, Bingchen Zhao</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/evaluation-blue" alt="evaluation Badge"> <img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2310.06627"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2255,7 +2255,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 10%;">2023-09-29</td>
 <td style="width: 40%;"><strong>Directly Fine-Tuning Diffusion Models on Differentiable Rewards</strong><br><em>Kevin Clark, Paul Vicol, Kevin Swersky, David J Fleet</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/rl-blue" alt="rl Badge"> <img src="https://img.shields.io/badge/optimization-blue" alt="optimization Badge"> <img src="https://img.shields.io/badge/diffusion-blue" alt="diffusion Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2309.17400"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2271,14 +2271,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>InternLM-XComposer: A Vision-Language Large Model for Advanced
   Text-image Comprehension and Composition</strong><br><em>Pan Zhang, Xiaoyi Dong, Bin Wang, Yuhang Cao, Chao Xu, Linke Ouyang, Zhiyuan Zhao, Haodong Duan, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/evaluation-blue" alt="evaluation Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2309.15112"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2023-09-25</td>
 <td style="width: 40%;"><strong>Aligning Large Multimodal Models with Factually Augmented RLHF</strong><br><em>Zhiqing Sun, Sheng Shen, Shengcao Cao, Haotian Liu, Chunyuan Li, Yikang Shen, Chuang Gan, Liang-Yan Gui, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> <img src="https://img.shields.io/badge/alignment-blue" alt="alignment Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/rl-blue" alt="rl Badge"> <img src="https://img.shields.io/badge/feedback-blue" alt="feedback Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2309.14525"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2293,7 +2293,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 10%;">2023-09-19</td>
 <td style="width: 40%;"><strong>Guide Your Agent with Adaptive Multimodal Rewards</strong><br><em>Changyeon Kim, Younggyo Seo, Hao Liu, Lisa Lee, Jinwoo Shin, Honglak Lee, Kimin Lee</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/policy-blue" alt="policy Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2309.10790"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2315,14 +2315,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Position-Enhanced Visual Instruction Tuning for Multimodal Large
   Language Models</strong><br><em>Chi Chen, Ruoyu Qin, Fuwen Luo, Xiaoyue Mi, Peng Li, Maosong Sun, Yang Liu</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/dataset-blue" alt="dataset Badge"> <img src="https://img.shields.io/badge/alignment-blue" alt="alignment Badge"> <img src="https://img.shields.io/badge/instruction tun-blue" alt="instruction tun Badge"> <img src="https://img.shields.io/badge/region-blue" alt="region Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2308.13437"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2023-08-21</td>
 <td style="width: 40%;"><strong>VQA Therapy: Exploring Answer Differences by Visually Grounding Answers</strong><br><em>Chongyan Chen, Samreen Anjum, Danna Gurari</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/grounding-blue" alt="grounding Badge"> <img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/dataset-blue" alt="dataset Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2308.11662"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2337,7 +2337,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 10%;">2023-07-11</td>
 <td style="width: 40%;"><strong>Emu: Generative Pretraining in Multimodality</strong><br><em>Quan Sun, Qiying Yu, Yufeng Cui, Fan Zhang, Xiaosong Zhang, Yueze Wang, Hongcheng Gao, Jingjing Liu, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/rl-blue" alt="rl Badge"> <img src="https://img.shields.io/badge/auto regressive-blue" alt="auto regressive Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/few shot-blue" alt="few shot Badge"> <img src="https://img.shields.io/badge/zero shot-blue" alt="zero shot Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2307.05222"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2345,7 +2345,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>AVIS: Autonomous Visual Information Seeking with Large Language Model
   Agent</strong><br><em>Ziniu Hu, Ahmet Iscen, Chen Sun, Kai-Wei Chang, Yizhou Sun, David A Ross, Cordelia Schmid, Alireza Fathi</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/memory-blue" alt="memory Badge"> <img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/search-blue" alt="search Badge"> <img src="https://img.shields.io/badge/tool-blue" alt="tool Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2306.08129"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2359,7 +2359,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 10%;">2023-05-23</td>
 <td style="width: 40%;"><strong>DetGPT: Detect What You Need via Reasoning</strong><br><em>Renjie Pi, Jiahui Gao, Shizhe Diao, Rui Pan, Hanze Dong, Jipeng Zhang, Lewei Yao, Jianhua Han, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/object detect-blue" alt="object detect Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2305.14167"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2441,7 +2441,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Understanding the Limits of Vision Language Models Through the Lens of
   the Binding Problem</strong><br><em>Declan Campbell, Sunayana Rane, Tyler Giallanza, Nicolò De Sabbata, Kia Ghods, Amogh Joshi, Alexander Ku, Steven M. Frankland, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2411.00238"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2508,7 +2508,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>RLS3: RL-Based Synthetic Sample Selection to Enhance Spatial Reasoning
   in Vision-Language Models for Indoor Autonomous Perception</strong><br><em>Joshua R. Waite, Md. Zahid Hasan, Qisai Liu, Zhanhong Jiang, Chinmay Hegde, Soumik Sarkar</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/synthetic data-blue" alt="synthetic data Badge"> <img src="https://img.shields.io/badge/spatial-blue" alt="spatial Badge"> <img src="https://img.shields.io/badge/rl-blue" alt="rl Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2501.18880"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2516,7 +2516,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>InternLM-XComposer2.5-Reward: A Simple Yet Effective Multi-Modal Reward
   Model</strong><br><em>Yuhang Zang, Xiaoyi Dong, Pan Zhang, Yuhang Cao, Ziyu Liu, Shengyuan Ding, Shenxi Wu, Yubo Ma, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/preference-blue" alt="preference Badge"> <img src="https://img.shields.io/badge/alignment-blue" alt="alignment Badge"> <img src="https://img.shields.io/badge/lvlm-blue" alt="lvlm Badge"> <img src="https://img.shields.io/badge/test time-blue" alt="test time Badge"> <img src="https://img.shields.io/badge/reward model-blue" alt="reward model Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/rl-blue" alt="rl Badge"> <img src="https://img.shields.io/badge/optimization-blue" alt="optimization Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2501.12368"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2538,7 +2538,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 10%;">2024-12-24</td>
 <td style="width: 40%;"><strong>MMFactory: A Universal Solution Search Engine for Vision-Language Tasks</strong><br><em>Wan-Cyuan Fan, Tanzila Rahman, Leonid Sigal</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/metric-blue" alt="metric Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/search-blue" alt="search Badge"> <img src="https://img.shields.io/badge/program-blue" alt="program Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.18072"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2553,14 +2553,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>From Simple to Professional: A Combinatorial Controllable Image
   Captioning Agent</strong><br><em>Xinran Wang, Muxi Diao, Baoteng Li, Haiwen Zhang, Kongming Liang, Zhanyu Ma</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/captioning-blue" alt="captioning Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.11025"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-12-12</td>
 <td style="width: 40%;"><strong>ViUniT: Visual Unit Tests for More Robust Visual Programming</strong><br><em>Artemis Panagopoulou, Honglu Zhou, Silvio Savarese, Caiming Xiong, Chris Callison-Burch, Mark Yatskar, Juan Carlos Niebles</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/program-blue" alt="program Badge"> <img src="https://img.shields.io/badge/rl-blue" alt="rl Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.08859"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2568,14 +2568,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>TACO: Learning Multi-modal Action Models with Synthetic
   Chains-of-Thought-and-Action</strong><br><em>Zixian Ma, Jianguo Zhang, Zhiwei Liu, Jieyu Zhang, Juntao Tan, Manli Shu, Juan Carlos Niebles, Shelby Heinecke, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/instruction tun-blue" alt="instruction tun Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/cot-blue" alt="cot Badge"> <img src="https://img.shields.io/badge/tool-blue" alt="tool Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.05479"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-12-04</td>
 <td style="width: 40%;"><strong>Perception Tokens Enhance Visual Reasoning in Multimodal Language Models</strong><br><em>Mahtab Bigverdi, Zelun Luo, Cheng-Yu Hsieh, Ethan Shen, Dongping Chen, Linda G. Shapiro, Ranjay Krishna</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/object detect-blue" alt="object detect Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/tool-blue" alt="tool Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.03548"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2589,14 +2589,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 10%;">2024-10-03</td>
 <td style="width: 40%;"><strong>LLaVA-Critic: Learning to Evaluate Multimodal Models</strong><br><em>Tianyi Xiong, Xiyao Wang, Dong Guo, Qinghao Ye, Haoqi Fan, Quanquan Gu, Heng Huang, Chunyuan Li</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/preference-blue" alt="preference Badge"> <img src="https://img.shields.io/badge/evaluation-blue" alt="evaluation Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/feedback-blue" alt="feedback Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2410.02712"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-09-28</td>
 <td style="width: 40%;"><strong>Visual Question Decomposition on Multimodal Large Language Models</strong><br><em>Haowei Zhang, Jianzhe Liu, Zhen Han, Shuo Chen, Bailan He, Volker Tresp, Zhiqiang Xu, Jindong Gu</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/evaluation-blue" alt="evaluation Badge"> <img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/policy-blue" alt="policy Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2409.19339"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2604,7 +2604,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>FineCops-Ref: A new Dataset and Task for Fine-Grained Compositional
   Referring Expression Comprehension</strong><br><em>Junzhuo Liu, Xuzheng Yang, Weiwei Li, Peng Wang</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/evaluation-blue" alt="evaluation Badge"> <img src="https://img.shields.io/badge/referring expression-blue" alt="referring expression Badge"> <img src="https://img.shields.io/badge/dataset-blue" alt="dataset Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2409.14750"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2612,7 +2612,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>BoViLA: Bootstrapping Video-Language Alignment via LLM-Based
   Self-Questioning and Answering</strong><br><em>Jin Chen, Kaijing Ma, Haojian Huang, Jiayu Shen, Han Fang, Xianghao Zang, Chao Ban, Zhongjiang He, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/self training-blue" alt="self training Badge"> <img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/alignment-blue" alt="alignment Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2410.02768"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2620,14 +2620,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Divide, Conquer and Combine: A Training-Free Framework for
   High-Resolution Image Perception in Multimodal Large Language Models</strong><br><em>Wenbin Wang, Liang Ding, Minyan Zeng, Xiabin Zhou, Li Shen, Yong Luo, Dacheng Tao</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/high resolution-blue" alt="high resolution Badge"> <img src="https://img.shields.io/badge/training free-blue" alt="training free Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2408.15556"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-08-07</td>
 <td style="width: 40%;"><strong>How Well Can Vision Language Models See Image Details?</strong><br><em>Chenhui Gou, Abdulwahab Felemban, Faizan Farooq Khan, Deyao Zhu, Jianfei Cai, Hamid Rezatofighi, Mohamed Elhoseiny</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/supervised fine tuning-blue" alt="supervised fine tuning Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2408.03940"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2635,7 +2635,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Mini-Monkey: Alleviating the Semantic Sawtooth Effect for Lightweight
   MLLMs via Complementary Image Pyramid</strong><br><em>Mingxin Huang, Yuliang Liu, Dingkang Liang, Lianwen Jin, Xiang Bai</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/efficient-blue" alt="efficient Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2408.02034"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2643,7 +2643,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>FIRE: A Dataset for Feedback Integration and Refinement Evaluation of
   Multimodal Models</strong><br><em>Pengxiang Li, Zhi Gao, Bofei Zhang, Tao Yuan, Yuwei Wu, Mehrtash Harandi, Yunde Jia, Song-Chun Zhu, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/feedback-blue" alt="feedback Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/scaling-blue" alt="scaling Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2407.11522"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2651,14 +2651,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Video-of-Thought: Step-by-Step Video Reasoning from Perception to
   Cognition</strong><br><em>Hao Fei, Shengqiong Wu, Wei Ji, Hanwang Zhang, Meishan Zhang, Mong-Li Lee, Wynne Hsu</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/cot-blue" alt="cot Badge"> <img src="https://img.shields.io/badge/temporal-blue" alt="temporal Badge"> <img src="https://img.shields.io/badge/video-blue" alt="video Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2501.03230"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-04-24</td>
 <td style="width: 40%;"><strong>Step Differences in Instructional Video</strong><br><em>Tushar Nagarajan, Lorenzo Torresani</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/o1-blue" alt="o1 Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/video-blue" alt="video Badge"> <img src="https://img.shields.io/badge/instruction tun-blue" alt="instruction tun Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2404.16222"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2666,7 +2666,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Griffon v2: Advancing Multimodal Perception with High-Resolution Scaling
   and Visual-Language Co-Referring</strong><br><em>Yufei Zhan, Yousong Zhu, Hongyin Zhao, Fan Yang, Ming Tang, Jinqiao Wang</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/high resolution-blue" alt="high resolution Badge"> <img src="https://img.shields.io/badge/vision language-blue" alt="vision language Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2403.09333"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2674,7 +2674,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>From Training-Free to Adaptive: Empirical Insights into MLLMs'
   Understanding of Detection Information</strong><br><em>Qirui Jiao, Daoyuan Chen, Yilun Huang, Yaliang Li, Ying Shen</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/fine grained-blue" alt="fine grained Badge"> <img src="https://img.shields.io/badge/object detect-blue" alt="object detect Badge"> <img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2401.17981"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2682,7 +2682,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning
   Capabilities</strong><br><em>Boyuan Chen, Zhuo Xu, Sean Kirmani, Brian Ichter, Danny Driess, Pete Florence, Dorsa Sadigh, Leonidas Guibas, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/dataset-blue" alt="dataset Badge"> <img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/spatial-blue" alt="spatial Badge"> <img src="https://img.shields.io/badge/robotic-blue" alt="robotic Badge"> <img src="https://img.shields.io/badge/optimization-blue" alt="optimization Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2401.12168"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2690,7 +2690,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision,
   Language, Audio, and Action</strong><br><em>Jiasen Lu, Christopher Clark, Sangho Lee, Zichen Zhang, Savya Khosla, Ryan Marten, Derek Hoiem, Aniruddha Kembhavi</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/auto regressive-blue" alt="auto regressive Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2312.17172"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2698,14 +2698,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Jack of All Tasks, Master of Many: Designing General-purpose
   Coarse-to-Fine Vision-Language Model</strong><br><em>Shraman Pramanick, Guangxing Han, Rui Hou, Sayan Nag, Ser-Nam Lim, Nicolas Ballas, Qifan Wang, Rama Chellappa, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/dataset-blue" alt="dataset Badge"> <img src="https://img.shields.io/badge/segmentation-blue" alt="segmentation Badge"> <img src="https://img.shields.io/badge/instruction tun-blue" alt="instruction tun Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/vision language-blue" alt="vision language Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2312.12423"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2023-12-17</td>
 <td style="width: 40%;"><strong>Silkie: Preference Distillation for Large Visual Language Models</strong><br><em>Lei Li, Zhihui Xie, Mukai Li, Shunian Chen, Peiyi Wang, Liang Chen, Yazheng Yang, Benyou Wang, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/preference-blue" alt="preference Badge"> <img src="https://img.shields.io/badge/lvlm-blue" alt="lvlm Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/dpo-blue" alt="dpo Badge"> <img src="https://img.shields.io/badge/feedback-blue" alt="feedback Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2312.10665"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2713,14 +2713,14 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Visual Program Distillation: Distilling Tools and Programmatic Reasoning
   into Vision-Language Models</strong><br><em>Yushi Hu, Otilia Stretcu, Chun-Ta Lu, Krishnamurthy Viswanathan, Kenji Hata, Enming Luo, Ranjay Krishna, Ariel Fuxman</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/instruction tun-blue" alt="instruction tun Badge"> <img src="https://img.shields.io/badge/retrieval-blue" alt="retrieval Badge"> <img src="https://img.shields.io/badge/program-blue" alt="program Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/distillation-blue" alt="distillation Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2312.03052"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2023-12-05</td>
 <td style="width: 40%;"><strong>LLaVA-Grounding: Grounded Visual Chat with Large Multimodal Models</strong><br><em>Hao Zhang, Hongyang Li, Feng Li, Tianhe Ren, Xueyan Zou, Shilong Liu, Shijia Huang, Jianfeng Gao, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2312.02949"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2728,7 +2728,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>InternLM-XComposer: A Vision-Language Large Model for Advanced
   Text-image Comprehension and Composition</strong><br><em>Pan Zhang, Xiaoyi Dong, Bin Wang, Yuhang Cao, Chao Xu, Linke Ouyang, Zhiyuan Zhao, Haodong Duan, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/evaluation-blue" alt="evaluation Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2309.15112"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 </table>
@@ -2780,7 +2780,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 10%;">2024-08-16</td>
 <td style="width: 40%;"><strong>A Survey on Benchmarks of Multimodal Large Language Models</strong><br><em>Jian Li, Weiheng Lu, Hao Fei, Meng Luo, Ming Dai, Min Xia, Yizhang Jin, Zhenye Gan, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2408.08632"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2811,7 +2811,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Bridging Language and Action: A Survey of Language-Conditioned Robot
   Manipulation</strong><br><em>Hongkuan Zhou, Xiangtong Yao, Oier Mees, Yuan Meng, Ted Xiao, Yonatan Bisk, Jean Oh, Edward Johns, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/robotic-blue" alt="robotic Badge"> <img src="https://img.shields.io/badge/rl-blue" alt="rl Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2312.10807"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2863,7 +2863,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Can Multimodal LLMs do Visual Temporal Understanding and Reasoning? The
   answer is No!</strong><br><em>Mohamed Fazli Imam, Chenyang Lyu, Alham Fikri Aji</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/temporal-blue" alt="temporal Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2501.10674"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2878,7 +2878,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Can MLLMs Reason in Multimodality? EMMA: An Enhanced MultiModal
   ReAsoning Benchmark</strong><br><em>Yunzhuo Hao, Jiawei Gu, Huichen Will Wang, Linjie Li, Zhengyuan Yang, Lijuan Wang, Yu Cheng</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/test time-blue" alt="test time Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/cot-blue" alt="cot Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2501.05444"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2892,7 +2892,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 10%;">2024-12-23</td>
 <td style="width: 40%;"><strong>Diving into Self-Evolving Training for Multimodal Reasoning</strong><br><em>Wei Liu, Junlong Li, Xiwen Zhang, Fan Zhou, Yu Cheng, Junxian He</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/reward model-blue" alt="reward model Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.17451"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2907,7 +2907,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>CoMT: A Novel Benchmark for Chain of Multi-modal Thought on Large
   Vision-Language Models</strong><br><em>Zihui Cheng, Qiguang Chen, Jin Zhang, Hao Fei, Xiaocheng Feng, Wanxiang Che, Min Li, Libo Qin</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/lvlm-blue" alt="lvlm Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/cot-blue" alt="cot Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.12932"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2915,7 +2915,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>VISCO: Benchmarking Fine-Grained Critique and Correction Towards
   Self-Improvement in Visual Reasoning</strong><br><em>Xueqing Wu, Yuheng Ding, Bingxuan Li, Pan Lu, Da Yin, Kai-Wei Chang, Nanyun Peng</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/lvlm-blue" alt="lvlm Badge"> <img src="https://img.shields.io/badge/fine grained-blue" alt="fine grained Badge"> <img src="https://img.shields.io/badge/self improv-blue" alt="self improv Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/cot-blue" alt="cot Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2412.02172"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2923,7 +2923,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>VLRewardBench: A Challenging Benchmark for Vision-Language Generative
   Reward Models</strong><br><em>Lei Li, Yuancheng Wei, Zhihui Xie, Xuqing Yang, Yifan Song, Peiyi Wang, Chenxin An, Tianyu Liu, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/hallucination-blue" alt="hallucination Badge"> <img src="https://img.shields.io/badge/alignment-blue" alt="alignment Badge"> <img src="https://img.shields.io/badge/inference time-blue" alt="inference time Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/reward model-blue" alt="reward model Badge"> <img src="https://img.shields.io/badge/verification-blue" alt="verification Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2411.17451"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2946,7 +2946,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>ActiView: Evaluating Active Perception Ability for Multimodal Large
   Language Models</strong><br><em>Ziyue Wang, Chi Chen, Fuwen Luo, Yurui Dong, Yuanchi Zhang, Yuzhuang Xu, Xiaolong Wang, Peng Li, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2410.04659"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2977,7 +2977,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 10%;">2024-06-12</td>
 <td style="width: 40%;"><strong>ConMe: Rethinking Evaluation of Compositional Reasoning for Modern VLMs</strong><br><em>Irene Huang, Wei Lin, M. Jehanzeb Mirza, Jacob A. Hansen, Sivan Doveh, Victor Ion Butoi, Roei Herzig, Assaf Arbelle, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/data generation-blue" alt="data generation Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2406.08164"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -2985,21 +2985,21 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>M$^3$CoT: A Novel Benchmark for Multi-Domain Multi-step Multi-modal
   Chain-of-Thought</strong><br><em>Qiguang Chen, Libo Qin, Jin Zhang, Zhi Chen, Xiao Xu, Wanxiang Che</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/cot-blue" alt="cot Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2405.16473"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-04-18</td>
 <td style="width: 40%;"><strong>BLINK: Multimodal Large Language Models Can See but Not Perceive</strong><br><em>Xingyu Fu, Yushi Hu, Bangzheng Li, Yu Feng, Haoyu Wang, Xudong Lin, Dan Roth, Noah A. Smith, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2404.12390"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
 <td style="width: 10%;">2024-03-17</td>
 <td style="width: 40%;"><strong>m&m's: A Benchmark to Evaluate Tool-Use for multi-step multi-modal Tasks</strong><br><em>Zixian Ma, Weikai Huang, Jieyu Zhang, Tanmay Gupta, Ranjay Krishna</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/tool-blue" alt="tool Badge"> <img src="https://img.shields.io/badge/feedback-blue" alt="feedback Badge"> <img src="https://img.shields.io/badge/planning-blue" alt="planning Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2403.11085"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -3014,7 +3014,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Stop Reasoning! When Multimodal LLM with Chain-of-Thought Reasoning
   Meets Adversarial Image</strong><br><em>Zefeng Wang, Zhen Han, Shuo Chen, Fan Xue, Zifeng Ding, Xun Xiao, Volker Tresp, Philip Torr, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/cot-blue" alt="cot Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2402.14899"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -3036,7 +3036,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 10%;">2024-02-12</td>
 <td style="width: 40%;"><strong>Exploring Perceptual Limitation of Multimodal Large Language Models</strong><br><em>Jiarui Zhang, Jinyi Hu, Mahyar Khayatkhoei, Filip Ilievski, Maosong Sun</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/evaluation-blue" alt="evaluation Badge"> <img src="https://img.shields.io/badge/qa-blue" alt="qa Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2402.07384"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -3044,7 +3044,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with
   Vision-Language Benchmark</strong><br><em>Dongping Chen, Ruoxi Chen, Shilin Zhang, Yinuo Liu, Yaochen Wang, Huichi Zhou, Qihui Zhang, Yao Wan, et al.</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/evaluation-blue" alt="evaluation Badge"> <img src="https://img.shields.io/badge/preference-blue" alt="preference Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2402.04788"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -3052,7 +3052,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>ConTextual: Evaluating Context-Sensitive Text-Rich Visual Reasoning in
   Large Multimodal Models</strong><br><em>Rohan Wadhawan, Hritik Bansal, Kai-Wei Chang, Nanyun Peng</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/multi-blue" alt="multi Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2401.13311"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -3060,7 +3060,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>Tuning LayerNorm in Attention: Towards Efficient Multi-Modal LLM
   Finetuning</strong><br><em>Bingchen Zhao, Haoqin Tu, Chen Wei, Jieru Mei, Cihang Xie</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/optimization-blue" alt="optimization Badge"> <img src="https://img.shields.io/badge/attention-blue" alt="attention Badge"> <img src="https://img.shields.io/badge/efficiency-blue" alt="efficiency Badge"> <img src="https://img.shields.io/badge/mllm-blue" alt="mllm Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2312.11420"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
@@ -3068,7 +3068,7 @@ If you find our survey useful, please cite the following paper:
 <td style="width: 40%;"><strong>What's "up" with vision-language models? Investigating their struggle
   with spatial reasoning</strong><br><em>Amita Kamath, Jack Hessel, Kai-Wei Chang</em></td>
 <td style="width: 20%;"><img src="https://img.shields.io/badge/evaluation-blue" alt="evaluation Badge"> <img src="https://img.shields.io/badge/spatial-blue" alt="spatial Badge"> <img src="https://img.shields.io/badge/benchmark-blue" alt="benchmark Badge"> </td>
-<td style="width: 15%;">mulitmodel</td>
+<td style="width: 15%;">MLLM</td>
 <td style="width: 15%;"><a href="https://arxiv.org/abs/2310.19785"><img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge"></a></td>
 </tr>
 <tr>
