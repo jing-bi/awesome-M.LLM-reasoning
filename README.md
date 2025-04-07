@@ -22,12 +22,14 @@ With the rapid advancement of Multimodal Large Language Models (MLLMs), their re
 ## Citation
 If you find our survey useful, please cite the following paper:
 ```bibtex
-@article{jing2025multimodal,
-     title={MultiModal Language Models Reasoning: A Survey},
-     author={},
-     journal={},
-     url={},
-     year={2025}
+@misc{bi2025reasoningmatterssurveyadvancements,
+      title={Why Reasoning Matters? A Survey of Advancements in Multimodal Reasoning (v1)}, 
+      author={Jing Bi and Susan Liang and Xiaofei Zhou and Pinxin Liu and Junjia Guo and Yunlong Tang and Luchuan Song and Chao Huang and Guangyu Sun and Jinxi He and Jiarui Wu and Shu Yang and Daoan Zhang and Chen Chen and Lianggong Bruce Wen and Zhang Liu and Jiebo Luo and Chenliang Xu},
+      year={2025},
+      eprint={2504.03151},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2504.03151}, 
 }
 ```
 
