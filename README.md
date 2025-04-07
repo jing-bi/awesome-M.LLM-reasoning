@@ -1,7 +1,11 @@
-# Awesome MLLM Reasoning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Why Reasoning Matters? A Survey of Advancements in Multimodal Reasoning
 
-### 🔥🔥🔥 Multimodal Language Models Reasoning: A Survey
+## 🔥 All You Need for Reasoning Papers  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+
+Fresh Papers, Every Day: We track arXiv and top conferences so you don’t have to. New papers are added daily — check back often or follow along to stay in the loop.
+
+🌐 Web Interface (Coming Soon): We're building a powerful, user-friendly platform to help you **filter**, **explore**, and **stay focused** on the research that matters most to you.
 
 
 ## 📰 Table of Contents
