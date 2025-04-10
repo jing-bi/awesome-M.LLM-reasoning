@@ -1,4 +1,9 @@
-# Why Reasoning Matters? A Survey of Advancements in Multimodal Reasoning
+<h1 align="center" style="font-size: 48px; font-weight: 700; margin: 0;">
+  📖 Why Reasoning Matters?
+</h1>
+<h3 align="center" style="font-size: 28px; font-weight: 500; color: #555; margin: 0;">
+  A Survey of Advancements in Multimodal Reasoning
+</h3>
 
 ## 🔥 All You Need for Reasoning Papers  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
