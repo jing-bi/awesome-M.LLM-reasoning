@@ -24,7 +24,9 @@ Fresh Papers, Every Day: We track arXiv and top conferences so you don’t have 
 With the rapid advancement of Multimodal Large Language Models (MLLMs), their reasoning capabilities have become a focal point of research. Understanding how these models process and integrate information across different modalities is essential for improving interpretability and reliability. These developments have led to an increasing body of work analyzing the fundamental reasoning capabilities and Aha Moments within LMLMs, which we refer to as Multimodal Reasoning Paradigms.
 
 
-## Citation
+<img src="assets\search_framework.png" alt="search framework" width="800">
+
+## ✏️Citation
 If you find our survey useful, please cite the following paper:
 ```bibtex
 @misc{bi2025reasoningmatterssurveyadvancements,
@@ -43,12 +45,19 @@ If you find our survey useful, please cite the following paper:
 
 ### Categories
 
-- [Benchmark/Dataset](#benchmark-dataset)
-- [Method](#method)
-- [Theory](#theory)
-- [Application/System](#application-system)
-- [Survey](#survey)
-- [Analysis/Evaluation](#analysis-evaluation)
+- [🔥 All You Need for Reasoning Papers  ](#-all-you-need-for-reasoning-papers--)
+- [📰 Table of Contents](#-table-of-contents)
+- [🎉 Background](#-background)
+- [✏️Citation](#️citation)
+- [📚 Paper List](#-paper-list)
+  - [Categories](#categories)
+  - [Benchmark/Dataset ](#benchmarkdataset-)
+  - [Method ](#method-)
+  - [Theory ](#theory-)
+  - [Application/System ](#applicationsystem-)
+  - [Survey ](#survey-)
+  - [Analysis/Evaluation ](#analysisevaluation-)
+- [🌟 Star History](#-star-history)
 
 ### Benchmark/Dataset <a id='benchmark-dataset'></a>
 
