@@ -15,9 +15,9 @@ Fresh Papers, Every Day: We track arXiv and top conferences so you don’t have 
 
 ## 📰 Table of Contents
 - [Background](#-background)
-- [Citation](#citation)
 - [Paper List](#-paper-list)
 - [Star History](#-star-history)
+- [Citation](#-citation)
 
 
 ## 🎉 Background
@@ -25,20 +25,6 @@ With the rapid advancement of Multimodal Large Language Models (MLLMs), their re
 
 
 <img src="assets\search_framework.png" alt="search framework" width="800">
-
-## ✏️Citation
-If you find our survey useful, please cite the following paper:
-```bibtex
-@misc{bi2025reasoningmatterssurveyadvancements,
-      title={Why Reasoning Matters? A Survey of Advancements in Multimodal Reasoning (v1)}, 
-      author={Jing Bi and Susan Liang and Xiaofei Zhou and Pinxin Liu and Junjia Guo and Yunlong Tang and Luchuan Song and Chao Huang and Guangyu Sun and Jinxi He and Jiarui Wu and Shu Yang and Daoan Zhang and Chen Chen and Lianggong Bruce Wen and Zhang Liu and Jiebo Luo and Chenliang Xu},
-      year={2025},
-      eprint={2504.03151},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2504.03151}, 
-}
-```
 
 
 ## 📚 Paper List
@@ -2890,3 +2876,16 @@ If you find our survey useful, please cite the following paper:
 
 [![Star History Chart](https://api.star-history.com/svg?repos=jing-bi/awesome-M.LLM-reasoning&type=Date)](https://star-history.com/#jing-bi/awesome-M.LLM-reasoning&Date)
 
+## ✏️ Citation
+If you find our survey useful, please cite the following paper:
+```bibtex
+@misc{bi2025reasoningmatterssurveyadvancements,
+      title={Why Reasoning Matters? A Survey of Advancements in Multimodal Reasoning (v1)}, 
+      author={Jing Bi and Susan Liang and Xiaofei Zhou and Pinxin Liu and Junjia Guo and Yunlong Tang and Luchuan Song and Chao Huang and Guangyu Sun and Jinxi He and Jiarui Wu and Shu Yang and Daoan Zhang and Chen Chen and Lianggong Bruce Wen and Zhang Liu and Jiebo Luo and Chenliang Xu},
+      year={2025},
+      eprint={2504.03151},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2504.03151}, 
+}
+```
