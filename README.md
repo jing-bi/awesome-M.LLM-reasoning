@@ -34,7 +34,6 @@ With the rapid advancement of Multimodal Large Language Models (MLLMs), their re
 - [🔥 All You Need for Reasoning Papers  ](#-all-you-need-for-reasoning-papers--)
 - [📰 Table of Contents](#-table-of-contents)
 - [🎉 Background](#-background)
-- [✏️Citation](#%EF%B8%8F-citation)
 - [📚 Paper List](#-paper-list)
   - [Categories](#categories)
   - [Benchmark/Dataset ](#benchmarkdataset-)
@@ -44,6 +43,7 @@ With the rapid advancement of Multimodal Large Language Models (MLLMs), their re
   - [Survey ](#survey-)
   - [Analysis/Evaluation ](#analysisevaluation-)
 - [🌟 Star History](#-star-history)
+- [✏️Citation](#%EF%B8%8F-citation)
 
 ### Benchmark/Dataset <a id='benchmark-dataset'></a>
 
