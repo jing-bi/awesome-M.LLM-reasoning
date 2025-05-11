@@ -17,7 +17,7 @@ Fresh Papers, Every Day: We track arXiv and top conferences so you don’t have 
 - [Background](#-background)
 - [Paper List](#-paper-list)
 - [Star History](#-star-history)
-- [Citation](#-citation)
+- [Citation](#✏️-citation)
 
 
 ## 🎉 Background
