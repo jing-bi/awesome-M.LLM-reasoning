@@ -17,7 +17,7 @@ Fresh Papers, Every Day: We track arXiv and top conferences so you don’t have 
 - [Background](#-background)
 - [Paper List](#-paper-list)
 - [Star History](#-star-history)
-- [Citation](#✏️-citation)
+- [Citation](#%EF%B8%8F-citation)
 
 
 ## 🎉 Background
@@ -34,7 +34,7 @@ With the rapid advancement of Multimodal Large Language Models (MLLMs), their re
 - [🔥 All You Need for Reasoning Papers  ](#-all-you-need-for-reasoning-papers--)
 - [📰 Table of Contents](#-table-of-contents)
 - [🎉 Background](#-background)
-- [✏️Citation](#️citation)
+- [✏️Citation](#️%EF%B8%8F-citation)
 - [📚 Paper List](#-paper-list)
   - [Categories](#categories)
   - [Benchmark/Dataset ](#benchmarkdataset-)
